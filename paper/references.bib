@@ -121,11 +121,16 @@
   year={2018}
 }
 
+
 @article{kiselev2024unraveling,
   title={Unraveling the Hessian: A Key to Smooth Convergence in Loss Function Landscapes},
-  author={Kiselev, Nikolay and Grabovoy, Artem},
-  journal={arXiv preprint arXiv:2401.12345},
-  year={2024}
+  author={Nikita Kiselev and Andrey Grabovoy},
+  journal={Doklady Mathematics},
+  volume={110},
+  number={S1},
+  pages={S42},
+  year={2025},
+  publisher={Springer}
 }
 
 @article{chaudhari2019entropy,
@@ -159,21 +164,33 @@
   year={2002}
 }
 
-@article{hardt2016train,
-  title={Train faster, generalize better: Stability of stochastic gradient descent},
-  author={Hardt, Moritz and Recht, Benjamin and Singer, Yoram},
-  journal={International Conference on Machine Learning},
-  pages={1225--1234},
-  year={2016}
+@inproceedings{hardt2016train,
+    author = {Hardt, Moritz and Recht, Benjamin and Singer, Yoram},
+    title = {Train faster, generalize better: stability of stochastic gradient descent},
+    year = {2016},
+    publisher = {JMLR.org},
+    booktitle = {Proceedings of the 33rd International Conference on International Conference on Machine Learning - Volume 48},
+    pages = {1225–1234},
+    numpages = {10},
+    location = {New York, NY, USA},
+    series = {ICML'16}
 }
 
-@article{charles2017stability,
-  title={Stability and Generalization of Learning Algorithms that Converge to Global Optima},
-  author={Charles, Zachary and Papailiopoulos, Dimitris},
-  journal={International Conference on Machine Learning},
-  pages={745--754},
-  year={2017}
+@InProceedings{charles2017stability,
+  title = 	 {Stability and Generalization of Learning Algorithms that Converge to Global Optima},
+  author =       {Charles, Zachary and Papailiopoulos, Dimitris},
+  booktitle = 	 {Proceedings of the 35th International Conference on Machine Learning},
+  pages = 	 {745--754},
+  year = 	 {2018},
+  editor = 	 {Dy, Jennifer and Krause, Andreas},
+  volume = 	 {80},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {10--15 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v80/charles18a/charles18a.pdf},
+  url = 	 {https://proceedings.mlr.press/v80/charles18a.html},
 }
+
 
 % Информационно-теоретические подходы
 
@@ -226,21 +243,26 @@
 
 % Стохастическая оптимизация и обобщение
 
-@article{bottou2008tradeoffs,
-  title={The tradeoffs of large scale learning},
-  author={Bottou, L{\'e}on and Bousquet, Olivier},
-  journal={Advances in Neural Information Processing Systems},
-  volume={20},
-  year={2008}
+@inproceedings{bottou2008tradeoffs,
+ author = {Bottou, L\'{e}on and Bousquet, Olivier},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {J. Platt and D. Koller and Y. Singer and S. Roweis},
+ pages = {},
+ publisher = {Curran Associates, Inc.},
+ title = {The Tradeoffs of Large Scale Learning},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2007/file/0d3180d672e08b4c5312dcdafdf6ef36-Paper.pdf},
+ volume = {20},
+ year = {2007}
 }
 
-@article{lei2020stability,
-  title={Stability and generalization of stochastic gradient methods for convex problems},
-  author={Lei, Yunwen and Ying, Yiming},
-  journal={Journal of Machine Learning Research},
-  volume={21},
-  pages={1--51},
-  year={2020}
+@misc{lei2020stability,
+      title={Stability and Generalization of Stochastic Gradient Methods for Minimax Problems}, 
+      author={Yunwen Lei and Zhenhuan Yang and Tianbao Yang and Yiming Ying},
+      year={2021},
+      eprint={2105.03793},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2105.03793}, 
 }
 
 % Байесовские и PAC-Байесовские методы
@@ -288,11 +310,18 @@
   year={2020}
 }
 
-@article{hoffman2022training,
-  title={Training Compute-Optimal Large Language Models},
-  author={Hoffmann, Jordan and Borgeaud, Sebastian and Mensch, Arthur and Buchatskaya, Elena and Cai, Trevor and Rutherford, Eliza and Casas, Diego de Las and Hendricks, Lisa Anne and Welbl, Johannes and Clark, Aidan and others},
-  journal={arXiv preprint arXiv:2203.15556},
-  year={2022}
+@inproceedings{hoffman2022training,
+    author = {Hoffmann, Jordan and Borgeaud, Sebastian and Mensch, Arthur and Buchatskaya, Elena and Cai, Trevor and Rutherford, Eliza and de Las Casas, Diego and Hendricks, Lisa Anne and Welbl, Johannes and Clark, Aidan and Hennigan, Tom and Noland, Eric and Millican, Katie and van den Driessche, George and Damoc, Bogdan and Guy, Aurelia and Osindero, Simon and Simonyan, Karen and Elsen, Erich and Vinyals, Oriol and Rae, Jack W. and Sifre, Laurent},
+    title = {Training compute-optimal large language models},
+    year = {2022},
+    isbn = {9781713871088},
+    publisher = {Curran Associates Inc.},
+    address = {Red Hook, NY, USA},
+    booktitle = {Proceedings of the 36th International Conference on Neural Information Processing Systems},
+    articleno = {2176},
+    numpages = {15},
+    location = {New Orleans, LA, USA},
+    series = {NIPS '22}
 }
 
 % Дополнительные классические работы
@@ -388,20 +417,30 @@
 % Дополнительные работы по устойчивости
 
 @article{shalev2010learnability,
-  title={Learnability, stability and uniform convergence},
-  author={Shalev-Shwartz, Shai and Shamir, Ohad and Srebro, Nathan and Sridharan, Karthik},
-  journal={Journal of Machine Learning Research},
-  volume={11},
-  pages={2635--2670},
-  year={2010}
+    author = {Shalev-Shwartz, Shai and Shamir, Ohad and Srebro, Nathan and Sridharan, Karthik},
+    title = {Learnability, Stability and Uniform Convergence},
+    year = {2010},
+    issue_date = {3/1/2010},
+    publisher = {JMLR.org},
+    volume = {11},
+    issn = {1532-4435},
+    month = dec,
+    pages = {2635–2670},
+    numpages = {36}
 }
 
-@article{kutin2002almost,
-  title={Almost-everywhere algorithmic stability and generalization error},
-  author={Kutin, Samuel and Niyogi, Partha},
-  journal={Uncertainty in Artificial Intelligence},
-  pages={275--282},
-  year={2002}
+@inproceedings{kutin2002almost,
+    author = {Kutin, Samuel and Niyogi, Partha},
+    title = {Almost-everywhere algorithmic stability and generalization error},
+    year = {2002},
+    isbn = {1558608974},
+    publisher = {Morgan Kaufmann Publishers Inc.},
+    address = {San Francisco, CA, USA},
+    booktitle = {Proceedings of the Eighteenth Conference on Uncertainty in Artificial Intelligence},
+    pages = {275–282},
+    numpages = {8},
+    location = {Alberta, Canada},
+    series = {UAI'02}
 }
 
 % Дополнительные работы по информационной теории
@@ -414,12 +453,19 @@
   year={2019}
 }
 
-@article{bu2020understanding,
-  title={Understanding generalization in deep learning via tensor methods},
-  author={Bu, Yuheng and Karzand, Milad and Srebro, Nathan},
-  journal={International Conference on Machine Learning},
-  pages={1087--1096},
-  year={2020}
+@InProceedings{li2020understanding,
+  title = 	 {Understanding Generalization in Deep Learning via Tensor Methods},
+  author =       {Li, Jingling and Sun, Yanchao and Su, Jiahao and Suzuki, Taiji and Huang, Furong},
+  booktitle = 	 {Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {504--515},
+  year = 	 {2020},
+  editor = 	 {Chiappa, Silvia and Calandra, Roberto},
+  volume = 	 {108},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {26--28 Aug},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v108/li20c/li20c.pdf},
+  url = 	 {https://proceedings.mlr.press/v108/li20c.html},
 }
 
 % Дополнительные работы по PAC-Байесу
@@ -443,34 +489,71 @@
 % Дополнительные работы по оптимизации
 
 @article{zhang2017understanding,
-  title={Understanding deep learning requires rethinking generalization},
-  author={Zhang, Chiyuan and Bengio, Samy and Hardt, Moritz and Recht, Benjamin and Vinyals, Oriol},
-  journal={International Conference on Learning Representations},
-  year={2017}
+    author = {Zhang, Chiyuan and Bengio, Samy and Hardt, Moritz and Recht, Benjamin and Vinyals, Oriol},
+    title = {Understanding deep learning (still) requires rethinking generalization},
+    year = {2021},
+    issue_date = {March 2021},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {64},
+    number = {3},
+    issn = {0001-0782},
+    url = {https://doi.org/10.1145/3446776},
+    doi = {10.1145/3446776},
+    journal = {Commun. ACM},
+    month = feb,
+    pages = {107–115},
+    numpages = {9}
 }
 
-@article{arora2018stronger,
-  title={Stronger generalization bounds for deep nets via a compression approach},
-  author={Arora, Sanjeev and Ge, Rong and Neyshabur, Behnam and Zhang, Yi},
-  journal={International Conference on Machine Learning},
-  pages={254--263},
-  year={2018}
+@InProceedings{arora2018stronger,
+  title = 	 {Stronger Generalization Bounds for Deep Nets via a Compression Approach},
+  author =       {Arora, Sanjeev and Ge, Rong and Neyshabur, Behnam and Zhang, Yi},
+  booktitle = 	 {Proceedings of the 35th International Conference on Machine Learning},
+  pages = 	 {254--263},
+  year = 	 {2018},
+  editor = 	 {Dy, Jennifer and Krause, Andreas},
+  volume = 	 {80},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {10--15 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v80/arora18b/arora18b.pdf},
+  url = 	 {https://proceedings.mlr.press/v80/arora18b.html},
 }
+
 
 % Дополнительные работы по масштабированию
 
 @article{henighan2020scaling,
-  title={Scaling laws for autoregressive generative modeling},
-  author={Henighan, Tom and Kaplan, Jared and Katz, Mor and Chen, Mark and Hesse, Christopher and Jackson, Jacob and Jun, Heewoo and Brown, Tom B and Dhariwal, Prafulla and Gray, Scott and others},
-  journal={arXiv preprint arXiv:2010.14701},
-  year={2020}
-}
-
-@article{hoffmann2022predicting,
-  title={Predicting emergent large-scale models},
-  author={Hoffmann, Jordan and Borgeaud, Sebastian and others},
-  journal={arXiv preprint arXiv:2206.11200},
-  year={2022}
+  author       = {Tom Henighan and
+                  Jared Kaplan and
+                  Mor Katz and
+                  Mark Chen and
+                  Christopher Hesse and
+                  Jacob Jackson and
+                  Heewoo Jun and
+                  Tom B. Brown and
+                  Prafulla Dhariwal and
+                  Scott Gray and
+                  Chris Hallacy and
+                  Benjamin Mann and
+                  Alec Radford and
+                  Aditya Ramesh and
+                  Nick Ryder and
+                  Daniel M. Ziegler and
+                  John Schulman and
+                  Dario Amodei and
+                  Sam McCandlish},
+  title        = {Scaling Laws for Autoregressive Generative Modeling},
+  journal      = {CoRR},
+  volume       = {abs/2010.14701},
+  year         = {2020},
+  url          = {https://arxiv.org/abs/2010.14701},
+  eprinttype    = {arXiv},
+  eprint       = {2010.14701},
+  timestamp    = {Thu, 25 May 2023 10:38:31 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2010-14701.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
 % Работы по трансформерам
@@ -485,7 +568,7 @@
 
 @article{dong2021attention,
   title={Attention is not all you need: Pure attention loses rank doubly exponentially with depth},
-  author={Dong, Yihe and Cordonnier, Jean-Baptiste and Loureiro, Andreas},
+  author={Dong, Yihe and Cordonnier, Jean-Baptiste and Loukas, Andreas},
   journal={International Conference on Machine Learning},
   pages={2793--2803},
   year={2021}
@@ -527,59 +610,76 @@
 
 % Работы по гессиану и кривизне
 
-@article{sagun2017eigenvalues,
-  title={Eigenvalues of the Hessian in Deep Learning: Singularity and Beyond},
-  author={Sagun, Levent and Guney, Utku Evci and Arous, G{\'e}rard Ben and LeCun, Yann},
-  journal={arXiv preprint arXiv:1611.07476},
-  year={2017}
+@misc{sagun2017eigenvalues,
+      title={Eigenvalues of the Hessian in Deep Learning: Singularity and Beyond}, 
+      author={Levent Sagun and Leon Bottou and Yann LeCun},
+      year={2017},
+      eprint={1611.07476},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/1611.07476}, 
 }
 
 @article{pennington2017resurrecting,
   title={Resurrecting the sigmoid in deep learning through dynamical isometry: theory and practice},
   author={Pennington, Jeffrey and Schoenholz, Samuel S and Ganguli, Surya},
   journal={Advances in Neural Information Processing Systems},
-  volume={30},
+  volume={31},
   year={2017}
 }
 
 % Работы по дифференциальной приватности
 
-@article{dwork2006calibrating,
-  title={Calibrating noise to sensitivity in private data analysis},
-  author={Dwork, Cynthia and McSherry, Frank and Nissim, Kobbi and Smith, Adam},
-  journal={Theory of Cryptography Conference},
-  pages={265--284},
-  year={2006}
+@InProceedings{dwork2006calibrating,
+    author="Dwork, Cynthia
+    and McSherry, Frank
+    and Nissim, Kobbi
+    and Smith, Adam",
+    editor="Halevi, Shai
+    and Rabin, Tal",
+    title="Calibrating Noise to Sensitivity in Private Data Analysis",
+    booktitle="Theory of Cryptography",
+    year="2006",
+    publisher="Springer Berlin Heidelberg",
+    address="Berlin, Heidelberg",
+    pages="265--284",
+    isbn="978-3-540-32732-5"
 }
 
-@article{bassily2016algorithmic,
-  title={Algorithmic stability for adaptive data analysis},
-  author={Bassily, Raef and Nissim, Kobbi and Smith, Adam and Steinke, Thomas and Ullman, Jonathan and Vadhan, Salil},
-  journal={Proceedings of the 48th Annual ACM SIGACT Symposium on Theory of Computing},
-  pages={1046--1059},
-  year={2016}
+@inproceedings{bassily2016algorithmic,
+    author = {Bassily, Raef and Nissim, Kobbi and Smith, Adam and Steinke, Thomas and Stemmer, Uri and Ullman, Jonathan},
+    title = {Algorithmic stability for adaptive data analysis},
+    year = {2016},
+    isbn = {9781450341325},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/2897518.2897566},
+    doi = {10.1145/2897518.2897566},
+    booktitle = {Proceedings of the Forty-Eighth Annual ACM Symposium on Theory of Computing},
+    pages = {1046–1059},
+    numpages = {14},
+    keywords = {Adaptivity, Data Analysis, Differential Privacy, Generalization, Stability, Statistics},
+    location = {Cambridge, MA, USA},
+    series = {STOC '16}
 }
 
 % Работы по sample complexity
 
-@article{anthony1999sample,
-  title={Sample complexity for learning infinite perceptron networks},
-  author={Anthony, Martin and Bartlett, Peter L},
-  journal={Neural Computation},
-  volume={11},
-  number={6},
-  pages={1287--1308},
-  year={1999}
-}
-
 @article{hanneke2016optimal,
-  title={The optimal sample complexity of PAC learning},
-  author={Hanneke, Steve},
-  journal={Journal of Machine Learning Research},
-  volume={17},
-  number={1},
-  pages={1319--1333},
-  year={2016}
+    author = {Hanneke, Steve},
+    title = {The optimal sample complexity OF PAC learning},
+    year = {2016},
+    issue_date = {January 2016},
+    publisher = {JMLR.org},
+    volume = {17},
+    number = {1},
+    issn = {1532-4435},
+    abstract = {This work establishes a new upper bound on the number of samples sufficient for PAC learning in the realizable case. The bound matches known lower bounds up to numerical constant factors. This solves a long-standing open problem on the sample complexity of PAC learning. The technique and analysis build on a recent breakthrough by Hans Simon.},
+    journal = {J. Mach. Learn. Res.},
+    month = jan,
+    pages = {1319–1333},
+    numpages = {15},
+    keywords = {PAC learning, learning algorithm, minimax analysis, sample complexity, statistical learning theory}
 }
 
 % Работы по металёрнингу
@@ -688,12 +788,14 @@
   year={2018}
 }
 
-@article{gunasekar2018implicit,
-  title={Implicit regularization in matrix factorization},
-  author={Gunasekar, Suriya and Woodworth, Blake E and Bhojanapalli, Srinadh and Neyshabur, Behnam and Srebro, Nathan},
-  journal={Advances in Neural Information Processing Systems},
-  volume={31},
-  year={2018}
+@misc{gunasekar2018implicit,
+      title={Implicit Regularization in Matrix Factorization}, 
+      author={Suriya Gunasekar and Blake Woodworth and Srinadh Bhojanapalli and Behnam Neyshabur and Nathan Srebro},
+      year={2017},
+      eprint={1705.09280},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/1705.09280}, 
 }
 
 % Дополнительные современные работы по обобщению
@@ -723,10 +825,11 @@
 }
 
 @article{neyshabur2017geometry,
-  title={Geometry of optimization and implicit regularization in deep learning},
-  author={Neyshabur, Behnam},
-  journal={arXiv preprint arXiv:1709.03071},
-  year={2017}
+  title={Geometry of Optimization and Implicit Regularization in Deep Learning},
+  author={Neyshabur, Behnam and Tomioka, Ryota and Salakhutdinov, Ruslan and Srebro, Nathan},
+  journal={arXiv Preprint},
+  year={2017},
+  url_Paper={https://arxiv.org/pdf/1705.03071.pdf}
 }
 
 @article{liang2019just,
@@ -780,7 +883,7 @@
 
 @article{arora2019fine,
   title={Fine-grained analysis of optimization and generalization for overparameterized two-layer neural networks},
-  author={Arora, Sanjeev and Du, Simon S and Hu, Wei and Li, Zhiyuan and Salakhutdinov, Russ R and Wang, Ruosong},
+  author={Arora, Sanjeev and Du, Simon and Hu, Wei and Li, Zhiyuan and Wang, Ruosong},
   journal={International Conference on Machine Learning},
   pages={322--332},
   year={2019}
@@ -790,42 +893,60 @@
   title={On lazy training in differentiable programming},
   author={Chizat, L{\'e}na{\"i}c and Oyallon, Edouard and Bach, Francis},
   journal={Advances in Neural Information Processing Systems},
-  volume={32},
+  volume={33},
   year={2019}
 }
 
-@article{woodworth2020kernel,
-  title={Kernel and rich regimes in overparametrized models},
-  author={Woodworth, Blake and Gunasekar, Suriya and Lee, Jason D and Soudry, Daniel and Srebro, Nathan},
-  journal={Conference on Learning Theory},
-  pages={3635--3673},
-  year={2020}
+@InProceedings{woodworth2020kernel,
+  title = 	 {Kernel and Rich Regimes in Overparametrized Models},
+  author =       {Woodworth, Blake and Gunasekar, Suriya and Lee, Jason D. and Moroshko, Edward and Savarese, Pedro and Golan, Itay and Soudry, Daniel and Srebro, Nathan},
+  booktitle = 	 {Proceedings of Thirty Third Conference on Learning Theory},
+  pages = 	 {3635--3673},
+  year = 	 {2020},
+  editor = 	 {Abernethy, Jacob and Agarwal, Shivani},
+  volume = 	 {125},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {09--12 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v125/woodworth20a/woodworth20a.pdf},
+  url = 	 {https://proceedings.mlr.press/v125/woodworth20a.html},
 }
+
 
 % Работы по прореживанию и квантизации
 
-@article{lecun1989optimal,
-  title={Optimal brain damage},
-  author={LeCun, Yann and Denker, John S and Solla, Sara A},
-  journal={Advances in Neural Information Processing Systems},
-  volume={2},
-  pages={598--605},
-  year={1989}
+@inproceedings{lecun1989optimal,
+ author = {LeCun, Yann and Denker, John and Solla, Sara},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {D. Touretzky},
+ pages = {},
+ publisher = {Morgan-Kaufmann},
+ title = {Optimal Brain Damage},
+ url = {https://proceedings.neurips.cc/paper_files/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf},
+ volume = {2},
+ year = {1989}
 }
 
-@article{han2015learning,
-  title={Learning both weights and connections for efficient neural network},
-  author={Han, Song and Pool, Jeff and Tran, John and Dally, William},
-  journal={Advances in Neural Information Processing Systems},
-  volume={28},
-  year={2015}
+@inproceedings{han2015learning,
+ author = {Han, Song and Pool, Jeff and Tran, John and Dally, William},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {C. Cortes and N. Lawrence and D. Lee and M. Sugiyama and R. Garnett},
+ pages = {},
+ publisher = {Curran Associates, Inc.},
+ title = {Learning both Weights and Connections for Efficient Neural Network},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2015/file/ae0eb3eed39d2bcef4622b2499a05fe6-Paper.pdf},
+ volume = {28},
+ year = {2015}
 }
 
-@article{li2016pruning,
-  title={Pruning filters for efficient convnets},
-  author={Li, Hao and Kadav, Asim and Durdanovic, Igor and Samet, Hanan and Graf, Hans Peter},
-  journal={arXiv preprint arXiv:1608.08710},
-  year={2016}
+@misc{li2016pruning,
+      title={Pruning Filters for Efficient ConvNets}, 
+      author={Hao Li and Asim Kadav and Igor Durdanovic and Hanan Samet and Hans Peter Graf},
+      year={2017},
+      eprint={1608.08710},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/1608.08710}, 
 }
 
 @article{he2017channel,
@@ -836,29 +957,36 @@
   year={2017}
 }
 
-@article{wang2019picking,
-  title={Picking winning tickets before training by preserving gradient flow},
-  author={Wang, Chaoqi and Grosse, Roger and Fidler, Sanja and Zhang, Guodong},
-  journal={arXiv preprint arXiv:2002.07376},
-  year={2019}
+@inproceedings{
+    wang2019picking,
+    title={Picking Winning Tickets Before Training by Preserving Gradient Flow},
+    author={Chaoqi Wang and Guodong Zhang and Roger Grosse},
+    booktitle={International Conference on Learning Representations},
+    year={2020},
+    url={https://openreview.net/forum?id=SkgsACVKPH}
 }
 
-@article{rastegari2016xnor,
-  title={XNOR-Net: ImageNet classification using binary convolutional neural networks},
-  author={Rastegari, Mohammad and Ordonez, Vicente and Redmon, Joseph and Farhadi, Ali},
-  journal={European Conference on Computer Vision},
-  pages={525--542},
-  year={2016}
+@inproceedings{rastegari2016xnor,
+    Author = {Mohammad Rastegari and Vicente Ordonez and Joseph Redmon and Ali Farhadi},
+    Title = {XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks},
+    Booktitle = {ECCV},
+    Year = {2016}
 }
 
 @article{hubara2017quantized,
-  title={Quantized neural networks: Training neural networks with low precision weights and activations},
-  author={Hubara, Itay and Courbariaux, Matthieu and Soudry, Daniel and El-Yaniv, Ran and Bengio, Yoshua},
-  journal={Journal of Machine Learning Research},
-  volume={18},
-  number={1},
-  pages={6869--6898},
-  year={2017}
+    author = {Hubara, Itay and Courbariaux, Matthieu and Soudry, Daniel and El-Yaniv, Ran and Bengio, Yoshua},
+    title = {Quantized neural networks: training neural networks with low precision weights and activations},
+    year = {2017},
+    issue_date = {January 2017},
+    publisher = {JMLR.org},
+    volume = {18},
+    number = {1},
+    issn = {1532-4435},
+    journal = {J. Mach. Learn. Res.},
+    month = jan,
+    pages = {6869–6898},
+    numpages = {30},
+    keywords = {computer vision, deep learning, energy efficient neural networks, language models, neural networks compression}
 }
 
 @article{jacob2018quantization,
@@ -869,18 +997,19 @@
   year={2018}
 }
 
-@article{wang2019haq,
-  title={HAQ: Hardware-aware automated quantization with mixed precision},
-  author={Wang, Kuan and Liu, Zhijian and Lin, Yujun and Lin, Ji and Han, Song},
-  journal={Conference on Computer Vision and Pattern Recognition},
-  pages={8612--8620},
-  year={2019}
+@inproceedings{wang2019haq,
+    author = {Wang, Kuan and Liu, Zhijian and Lin, Yujun and Lin, Ji and Han, Song},
+    title = {HAQ: Hardware-Aware Automated Quantization With Mixed Precision},
+    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year = {2019}
 }
 
 @article{zhou2016dorefa,
-  title={DoReFa-Net: Training low bitwidth convolutional neural networks with low bitwidth gradients},
-  author={Zhou, Shuchang and Wu, Yuxin and Ni, Zekun and Zhou, Xinyu and Wen, He and Zou, Yuheng},
-  journal={arXiv preprint arXiv:1606.06160},
-  year={2016}
+  author    = {Shuchang Zhou and Yuxin Wu and Zekun Ni and Xinyu Zhou and He Wen and Yuheng Zou},
+  title     = {DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients},
+  journal   = {CoRR},
+  volume    = {abs/1606.06160},
+  year      = {2016},
+  url       = {http://arxiv.org/abs/1606.06160},
 }
 
