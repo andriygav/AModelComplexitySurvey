@@ -1,0 +1,4002 @@
+[
+  {
+    "record_id": "D-0159",
+    "score": 50,
+    "theme": "classical",
+    "year": "2022",
+    "title": "On Rademacher Complexity-based Generalization Bounds for Deep Learning",
+    "reason": "classical:10, probabilistic_information:8, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1916",
+    "score": 46,
+    "theme": "classical",
+    "year": "2023",
+    "title": "A PAC-Bayesian Perspective on the Interpolating Information Criterion",
+    "reason": "classical:10, surveys_synthesis:8, landscape:5, regimes:5, probabilistic_information:3, queries:4"
+  },
+  {
+    "record_id": "D-2780",
+    "score": 42,
+    "theme": "classical",
+    "year": "2023",
+    "title": "Generalization Guarantees via Algorithm-dependent Rademacher Complexity",
+    "reason": "classical:12, probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0108",
+    "score": 42,
+    "theme": "classical",
+    "year": "2021",
+    "title": "Evaluation of Complexity Measures for Deep Learning Generalization in Medical Image Analysis",
+    "reason": "classical:5, probabilistic_information:5, queries:3, hits:3, application_penalty:1"
+  },
+  {
+    "record_id": "D-1038",
+    "score": 42,
+    "theme": "classical",
+    "year": "1999",
+    "title": "Model complexity control for regression using VC generalization bounds",
+    "reason": "classical:10, probabilistic_information:6, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1869",
+    "score": 41,
+    "theme": "classical",
+    "year": "2022",
+    "title": "Analyzing Lottery Ticket Hypothesis from PAC-Bayesian Theory Perspective",
+    "reason": "classical:10, surveys_synthesis:8, probabilistic_information:3, landscape:3, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1512",
+    "score": 41,
+    "theme": "classical",
+    "year": "2021",
+    "title": "Generalization bounds for graph convolutional neural networks via Rademacher complexity",
+    "reason": "classical:10, probabilistic_information:6, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6090",
+    "score": 40,
+    "theme": "classical",
+    "year": "2019",
+    "title": "Deterministic PAC-Bayesian generalization bounds for deep networks via generalizing noise-resilience",
+    "reason": "classical:10, probabilistic_information:9, regimes:2, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-0899",
+    "score": 38,
+    "theme": "classical",
+    "year": "2026",
+    "title": "Towards A Unified PAC-Bayesian Framework for Norm-based Generalization Bounds",
+    "reason": "classical:10, probabilistic_information:8, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1937",
+    "score": 38,
+    "theme": "classical",
+    "year": "2024",
+    "title": "PAC Learnability and Information Bottleneck in Deep Learning: Tutorial and Survey",
+    "reason": "classical:10, surveys_synthesis:10, probabilistic_information:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2116",
+    "score": 38,
+    "theme": "classical",
+    "year": "2023",
+    "title": "PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization",
+    "reason": "classical:10, probabilistic_information:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2106",
+    "score": 37,
+    "theme": "classical",
+    "year": "2022",
+    "title": "Demystify Optimization and Generalization of Over-parameterized PAC-Bayesian Learning",
+    "reason": "classical:10, probabilistic_information:5, regimes:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4423",
+    "score": 37,
+    "theme": "classical",
+    "year": "2019",
+    "title": "Normalized Flat Minima: Exploring Scale Invariant Definition of Flat Minima for Neural Networks using PAC-Bayesian Analysis",
+    "reason": "classical:12, landscape:11, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6096",
+    "score": 37,
+    "theme": "classical",
+    "year": "2018",
+    "title": "Non-Vacuous Generalization Bounds at the ImageNet Scale: A PAC-Bayesian Compression Approach",
+    "reason": "classical:9, probabilistic_information:8, regimes:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0635",
+    "score": 36,
+    "theme": "classical",
+    "year": "2023",
+    "title": "On the Hardness of Robustness Transfer: A Perspective from Rademacher Complexity over Symmetric Difference Hypothesis Space",
+    "reason": "classical:10, surveys_synthesis:8, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1513",
+    "score": 35,
+    "theme": "classical",
+    "year": "2025",
+    "title": "RCR-AF: Enhancing Model Generalization via Rademacher Complexity Reduction Activation Function",
+    "reason": "classical:12, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6310",
+    "score": 35,
+    "theme": "classical",
+    "year": "1996",
+    "title": "Vapnik-Chervonenkis Generalization Bounds for Real Valued Neural Networks",
+    "reason": "classical:10, probabilistic_information:6, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1398",
+    "score": 34,
+    "theme": "classical",
+    "year": "2020",
+    "title": "Mining Sequential Patterns with VC-Dimension and Rademacher Complexity",
+    "reason": "classical:17, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0034",
+    "score": 34,
+    "theme": "classical",
+    "year": "2020",
+    "title": "High-dimensional dynamics of generalization error in neural networks",
+    "reason": "classical:3, surveys_synthesis:2, queries:6, hits:6"
+  },
+  {
+    "record_id": "D-1436",
+    "score": 34,
+    "theme": "classical",
+    "year": "2018",
+    "title": "Rademacher Complexity for Adversarially Robust Generalization",
+    "reason": "classical:10, surveys_synthesis:2, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-1430",
+    "score": 33,
+    "theme": "classical",
+    "year": "2019",
+    "title": "An Empirical Study on Regularization of Deep Neural Networks by Local Rademacher Complexity",
+    "reason": "classical:10, surveys_synthesis:2, queries:2, hits:4"
+  },
+  {
+    "record_id": "D-1514",
+    "score": 32,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Bridging the Gap: Rademacher Complexity in Robust and Standard Generalization",
+    "reason": "classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1426",
+    "score": 32,
+    "theme": "classical",
+    "year": "2021",
+    "title": "Rademacher Complexity and Numerical Quadrature Analysis of Stable Neural Networks with Applications to Numerical PDEs.",
+    "reason": "classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1556",
+    "score": 31,
+    "theme": "classical",
+    "year": "2023",
+    "title": "Generalization and Estimation Error Bounds for Model-based Neural Networks",
+    "reason": "classical:3, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1515",
+    "score": 31,
+    "theme": "classical",
+    "year": "2020",
+    "title": "A Theory on AI Uncertainty Based on Rademacher Complexity and Shannon Entropy",
+    "reason": "classical:10, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0913",
+    "score": 31,
+    "theme": "classical",
+    "year": "2019",
+    "title": "Rademacher complexity and spin glasses: A link between the replica and statistical theories of learning",
+    "reason": "classical:12, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0274",
+    "score": 30,
+    "theme": "classical",
+    "year": "2025",
+    "title": "Generalization Gap Bound for Deep Belief Networks via Rademacher Complexity",
+    "reason": "classical:7, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1554",
+    "score": 30,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Generalization and Risk Bounds for Recurrent Neural Networks",
+    "reason": "classical:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1610",
+    "score": 30,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Bounding the Rademacher complexity of Fourier neural operators",
+    "reason": "classical:12, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0613",
+    "score": 30,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Adversarially robust generalization theory via Jacobian regularization for deep neural networks",
+    "reason": "classical:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0866",
+    "score": 30,
+    "theme": "classical",
+    "year": "2023",
+    "title": "Applying statistical learning theory to deep learning",
+    "reason": "classical:7, surveys_synthesis:4, regimes:3, landscape:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1527",
+    "score": 30,
+    "theme": "classical",
+    "year": "2022",
+    "title": "Generalization Error Bounds for Deep Neural Networks Trained by SGD",
+    "reason": "classical:3, probabilistic_information:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1560",
+    "score": 30,
+    "theme": "classical",
+    "year": "2022",
+    "title": "A Functional-Space Mean-Field Theory of Partially-Trained Three-Layer Neural Networks",
+    "reason": "classical:3, probabilistic_information:3, regimes:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1565",
+    "score": 30,
+    "theme": "classical",
+    "year": "2020",
+    "title": "Optimization and Generalization Analysis of Transduction through Gradient Boosting and Application to Multi-scale Graph Neural Networks",
+    "reason": "classical:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1524",
+    "score": 30,
+    "theme": "classical",
+    "year": "2018",
+    "title": "Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks",
+    "reason": "classical:5, surveys_synthesis:5, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0627",
+    "score": 30,
+    "theme": "classical",
+    "year": "2018",
+    "title": "PAC-Bayes Control: Learning Policies that Provably Generalize to Novel Environments",
+    "reason": "classical:10, probabilistic_information:8, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2021",
+    "score": 30,
+    "theme": "classical",
+    "year": "2017",
+    "title": "A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks",
+    "reason": "classical:10, probabilistic_information:5, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-0689",
+    "score": 29,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Pac-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network",
+    "reason": "classical:7, probabilistic_information:6, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1032",
+    "score": 29,
+    "theme": "classical",
+    "year": "2023",
+    "title": "Nearly Optimal VC-Dimension and Pseudo-Dimension Bounds for Deep Neural Network Derivatives",
+    "reason": "classical:10, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1623",
+    "score": 29,
+    "theme": "classical",
+    "year": "2021",
+    "title": "AI Uncertainty Based on Rademacher Complexity and Shannon Entropy",
+    "reason": "classical:12, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1826",
+    "score": 59,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Generalization Bounds: Perspectives from Information Theory and PAC-Bayes",
+    "reason": "probabilistic_information:22, classical:10, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1815",
+    "score": 56,
+    "theme": "probabilistic_information",
+    "year": "2018",
+    "title": "Revisiting Generalization for Deep Learning: PAC-Bayes, Flat Minima, and Generative Models",
+    "reason": "probabilistic_information:13, landscape:11, classical:10, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1902",
+    "score": 50,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Higher-Order Generalization Bounds: Learning Deep Probabilistic Programs via PAC-Bayes Objectives",
+    "reason": "probabilistic_information:19, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1814",
+    "score": 49,
+    "theme": "probabilistic_information",
+    "year": "2017",
+    "title": "Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data",
+    "reason": "probabilistic_information:11, classical:5, landscape:5, queries:4, hits:8"
+  },
+  {
+    "record_id": "D-2112",
+    "score": 48,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Generalization Bounds via Meta-Learned Model Representations: PAC-Bayes and Sample Compression Hypernetworks",
+    "reason": "probabilistic_information:19, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1470",
+    "score": 48,
+    "theme": "probabilistic_information",
+    "year": "2020",
+    "title": "A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks",
+    "reason": "probabilistic_information:11, classical:10, queries:2, hits:4"
+  },
+  {
+    "record_id": "D-0112",
+    "score": 43,
+    "theme": "probabilistic_information",
+    "year": "2020",
+    "title": "Generalization bounds for deep learning",
+    "reason": "probabilistic_information:9, surveys_synthesis:4, classical:3, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-2022",
+    "score": 43,
+    "theme": "probabilistic_information",
+    "year": "2019",
+    "title": "Better PAC-Bayes Bounds for Deep Neural Networks using the Loss Curvature.",
+    "reason": "probabilistic_information:11, landscape:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2122",
+    "score": 42,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Information Complexity and Generalization Bounds",
+    "reason": "probabilistic_information:12, classical:3, landscape:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2045",
+    "score": 41,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "PAC-Bayes Bounds for Bandit Problems: A Survey and Experimental Comparison",
+    "reason": "probabilistic_information:11, classical:10, surveys_synthesis:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0901",
+    "score": 41,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "User-friendly introduction to PAC-Bayes bounds",
+    "reason": "probabilistic_information:14, classical:10, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1900",
+    "score": 41,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "PAC-Bayes Information Bottleneck",
+    "reason": "probabilistic_information:18, classical:10, surveys_synthesis:2, queries:1, hits:1, application_penalty:1"
+  },
+  {
+    "record_id": "D-1730",
+    "score": 40,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Mathematical Foundations of Deep Learning",
+    "reason": "probabilistic_information:8, classical:5, landscape:3, regimes:3, surveys_synthesis:2, queries:4"
+  },
+  {
+    "record_id": "D-1903",
+    "score": 40,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "PAC-Bayes Generalization Certificates for Learned Inductive Conformal Prediction",
+    "reason": "probabilistic_information:13, classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2084",
+    "score": 39,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Improving Generalization of Complex Models under Unbounded Loss Using PAC-Bayes Bounds",
+    "reason": "probabilistic_information:11, classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2113",
+    "score": 38,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Stability-based Generalization Bounds for Variational Inference",
+    "reason": "probabilistic_information:14, classical:3, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2749",
+    "score": 38,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Stability and Generalization Analysis of Gradient Methods for Shallow Neural Networks",
+    "reason": "probabilistic_information:8, landscape:3, regimes:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1899",
+    "score": 38,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization",
+    "reason": "probabilistic_information:10, classical:7, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2079",
+    "score": 37,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Some theoretical improvements on the tightness of PAC-Bayes risk certificates for neural networks",
+    "reason": "probabilistic_information:13, classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1551",
+    "score": 37,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "On Generalization Bounds for Deep Compound Gaussian Neural Networks",
+    "reason": "probabilistic_information:9, classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2360",
+    "score": 37,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Information-Theoretic Generalization Bounds for Batch Reinforcement Learning",
+    "reason": "probabilistic_information:18, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2281",
+    "score": 37,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Information-theoretic generalization bounds for black-box learning algorithms",
+    "reason": "probabilistic_information:18, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2252",
+    "score": 37,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis",
+    "reason": "probabilistic_information:18, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0579",
+    "score": 37,
+    "theme": "probabilistic_information",
+    "year": "2019",
+    "title": "On the information bottleneck theory of deep learning*",
+    "reason": "probabilistic_information:13, scaling_architectures:2, surveys_synthesis:2, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-2097",
+    "score": 36,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Provable Generalization Bounds for Deep Neural Networks with Momentum-Adaptive Gradient Dropout",
+    "reason": "probabilistic_information:11, classical:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1737",
+    "score": 36,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Trajectory-Dependent Generalization Bounds for Pairwise Learning with φ-mixing Samples",
+    "reason": "probabilistic_information:8, classical:3, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2288",
+    "score": 36,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Error Bounds of Supervised Classification from Information-Theoretic Perspective",
+    "reason": "probabilistic_information:10, surveys_synthesis:8, landscape:3, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2081",
+    "score": 36,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Better-than-KL PAC-Bayes Bounds",
+    "reason": "probabilistic_information:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1590",
+    "score": 36,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Learning Non-Vacuous Generalization Bounds from Optimization",
+    "reason": "probabilistic_information:8, classical:3, scaling_architectures:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1817",
+    "score": 36,
+    "theme": "probabilistic_information",
+    "year": "2018",
+    "title": "Meta-Learning by Adjusting Priors Based on Extended PAC-Bayes Theory",
+    "reason": "probabilistic_information:11, classical:10, queries:2, hits:3"
+  },
+  {
+    "record_id": "D-2130",
+    "score": 35,
+    "theme": "probabilistic_information",
+    "year": "2026",
+    "title": "Sheaf Graph Neural Networks via PAC-Bayes Spectral Optimization",
+    "reason": "probabilistic_information:13, classical:10, scaling_architectures:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2373",
+    "score": 35,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Improved Information-Theoretic Generalization Bounds for Distributed, Federated, and Iterative Learning",
+    "reason": "probabilistic_information:16, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2365",
+    "score": 35,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Information-Theoretic Generalization Bounds for Meta-Learning and Applications",
+    "reason": "probabilistic_information:16, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2306",
+    "score": 34,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Slicing Mutual Information Generalization Bounds for Neural Networks",
+    "reason": "probabilistic_information:11, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2086",
+    "score": 34,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Tighter PAC-Bayes Bounds Through Coin-Betting",
+    "reason": "probabilistic_information:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1519",
+    "score": 34,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Norm-based Generalization Bounds for Compositionally Sparse Neural Networks",
+    "reason": "probabilistic_information:8, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2800",
+    "score": 33,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Randomized Pairwise Learning with Adaptive Sampling: A PAC-Bayes Analysis",
+    "reason": "probabilistic_information:13, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1569",
+    "score": 33,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Generalization Bounds for Equivariant Networks on Markov Data",
+    "reason": "probabilistic_information:8, classical:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2053",
+    "score": 33,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "PAC-Bayes Generalisation Bounds for Dynamical Systems including Stable RNNs",
+    "reason": "probabilistic_information:13, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2082",
+    "score": 33,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Minimax optimality of deep neural networks on dependent data via PAC-Bayes bounds",
+    "reason": "probabilistic_information:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0618",
+    "score": 45,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Learning Beyond Euclid: Curvature-Adaptive Generalization for Neural Networks on Manifolds",
+    "reason": "landscape:13, classical:5, probabilistic_information:2, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-0888",
+    "score": 43,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "On generalization bounds for deep networks based on loss surface implicit regularization",
+    "reason": "landscape:9, probabilistic_information:6, classical:3, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3133",
+    "score": 42,
+    "theme": "landscape",
+    "year": "2019",
+    "title": "How noise affects the Hessian spectrum in overparameterized neural networks",
+    "reason": "landscape:13, regimes:9, surveys_synthesis:2, queries:5, hits:5"
+  },
+  {
+    "record_id": "D-2974",
+    "score": 41,
+    "theme": "landscape",
+    "year": "2020",
+    "title": "A Diffusion Theory For Deep Learning Dynamics: Stochastic Gradient Descent Exponentially Favors Flat Minima",
+    "reason": "landscape:11, scaling_architectures:9, surveys_synthesis:2, queries:4, hits:5"
+  },
+  {
+    "record_id": "D-3194",
+    "score": 40,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Sharp Minima Can Generalize: A Loss Landscape Perspective On Data",
+    "reason": "landscape:21, surveys_synthesis:6, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-4448",
+    "score": 40,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Towards Robust Out-of-Distribution Generalization Bounds via Sharpness",
+    "reason": "landscape:11, probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2072",
+    "score": 36,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "CR-SAM: Curvature Regularized Sharpness-Aware Minimization",
+    "reason": "landscape:13, classical:5, probabilistic_information:3, scaling_architectures:2, surveys_synthesis:2, queries:2"
+  },
+  {
+    "record_id": "D-4407",
+    "score": 36,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Stability Analysis of Sharpness-Aware Minimization",
+    "reason": "landscape:11, probabilistic_information:6, scaling_architectures:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2123",
+    "score": 36,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Noise Stability Optimization for Finding Flat Minima: A Hessian-based Regularization Approach",
+    "reason": "landscape:13, probabilistic_information:11, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3044",
+    "score": 36,
+    "theme": "landscape",
+    "year": "2019",
+    "title": "Stochastic Mirror Descent on Overparameterized Nonlinear Models: Convergence, Implicit Regularization, and Generalization",
+    "reason": "landscape:9, regimes:9, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-3537",
+    "score": 35,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "Survey of Loss Landscape Surfaces: Theory, Applications and Algorithms",
+    "reason": "landscape:13, surveys_synthesis:10, scaling_architectures:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3198",
+    "score": 34,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "On the Superlinear Relationship between SGD Noise Covariance and Loss Landscape Curvature",
+    "reason": "landscape:21, probabilistic_information:3, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3171",
+    "score": 34,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Do Sharpness-Based Optimizers Improve Generalization in Medical Image Analysis?",
+    "reason": "landscape:13, surveys_synthesis:2, queries:3, hits:3, application_penalty:2"
+  },
+  {
+    "record_id": "D-3437",
+    "score": 34,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Curvature Learning for Generalization of Hyperbolic Neural Networks",
+    "reason": "landscape:13, classical:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3168",
+    "score": 34,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Regularizing Scale-Adaptive Central Moment Sharpness for Neural Networks",
+    "reason": "landscape:13, surveys_synthesis:2, queries:5, hits:5"
+  },
+  {
+    "record_id": "D-4365",
+    "score": 34,
+    "theme": "landscape",
+    "year": "2020",
+    "title": "A Diffusion Theory for Deep Learning Dynamics: Stochastic Gradient Descent Escapes From Sharp Minima Exponentially Fast.",
+    "reason": "landscape:11, scaling_architectures:9, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4442",
+    "score": 33,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Improving Generalization and Convergence by Enhancing Implicit Regularization",
+    "reason": "landscape:12, probabilistic_information:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-4108",
+    "score": 33,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Understanding Hessian Alignment for Domain Generalization",
+    "reason": "landscape:11, surveys_synthesis:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-8279",
+    "score": 33,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "The alignment property of SGD noise and how it helps select flat minima: A stability analysis",
+    "reason": "landscape:13, probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3190",
+    "score": 33,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Improved Deep Neural Network Generalization Using m-Sharpness-Aware Minimization",
+    "reason": "landscape:10, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-3192",
+    "score": 33,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Bootstrap Generalization Ability from Loss Landscape Perspective",
+    "reason": "landscape:10, surveys_synthesis:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4554",
+    "score": 32,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Understanding the Generalization Benefit of Normalization Layers: Sharpness Reduction",
+    "reason": "landscape:8, surveys_synthesis:7, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3162",
+    "score": 32,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Low-Pass Filtering SGD for Recovering Flat Optima in the Deep Learning Optimization Landscape",
+    "reason": "landscape:10, regimes:3, surveys_synthesis:2, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-2902",
+    "score": 32,
+    "theme": "landscape",
+    "year": "2016",
+    "title": "On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima",
+    "reason": "landscape:11, queries:3, hits:6"
+  },
+  {
+    "record_id": "D-2718",
+    "score": 31,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "The Implicit Regularization of Dynamical Stability in Stochastic Gradient Descent",
+    "reason": "landscape:12, probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-8275",
+    "score": 31,
+    "theme": "landscape",
+    "year": "2020",
+    "title": "Dissecting Hessian: Understanding Common Structure of Hessian in Neural Networks",
+    "reason": "landscape:13, surveys_synthesis:5, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2920",
+    "score": 31,
+    "theme": "landscape",
+    "year": "2019",
+    "title": "Shaping the learning landscape in neural networks around wide flat minima",
+    "reason": "landscape:19, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3389",
+    "score": 30,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Seeking Consistent Flat Minima for Better Domain Generalization via Refining Loss Landscapes",
+    "reason": "landscape:13, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3448",
+    "score": 30,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Meta Curvature-Aware Minimization for Domain Generalization",
+    "reason": "landscape:13, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3431",
+    "score": 30,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models",
+    "reason": "landscape:10, scaling_architectures:9, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3864",
+    "score": 30,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "On the Power-Law Hessian Spectrums in Deep Learning",
+    "reason": "landscape:13, surveys_synthesis:2, queries:3, hits:3, application_penalty:1"
+  },
+  {
+    "record_id": "D-0894",
+    "score": 30,
+    "theme": "landscape",
+    "year": "2021",
+    "title": "Fractal Structure and Generalization Properties of Stochastic Optimization Algorithms",
+    "reason": "landscape:5, probabilistic_information:2, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-0014",
+    "score": 30,
+    "theme": "landscape",
+    "year": "2020",
+    "title": "Generalization with Deep Learning",
+    "reason": "landscape:3, classical:2, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3959",
+    "score": 29,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "A Hessian-Based Deep Learning Preprocessing Method for Coronary Angiography Image Analysis",
+    "reason": "landscape:11, probabilistic_information:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3459",
+    "score": 29,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Towards the Flatter Landscape and Better Generalization in Federated Learning under Client-level Differential Privacy",
+    "reason": "landscape:10, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4113",
+    "score": 29,
+    "theme": "landscape",
+    "year": "2021",
+    "title": "Analytic Insights into Structure and Rank of Neural Network Hessian Maps",
+    "reason": "landscape:11, probabilistic_information:3, regimes:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3627",
+    "score": 29,
+    "theme": "landscape",
+    "year": "2017",
+    "title": "The Landscape of Deep Learning Algorithms",
+    "reason": "landscape:10, classical:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3470",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "Sleep-Like Replay Reduces Loss-Landscape Sharpness to Improve Generalization (Student Abstract)",
+    "reason": "landscape:18, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3196",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Global Dynamics of Heavy-Tailed SGDs in Nonconvex Loss Landscape: Characterization and Control",
+    "reason": "landscape:13, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-4697",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Implicit Regularization of Sharpness-Aware Minimization for Scale-Invariant Problems",
+    "reason": "landscape:17, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0873",
+    "score": 51,
+    "theme": "regimes",
+    "year": "2026",
+    "title": "Implicit Regularization and Generalization in Overparameterized Neural Networks",
+    "reason": "regimes:15, landscape:12, surveys_synthesis:2, queries:3, hits:4"
+  },
+  {
+    "record_id": "D-1171",
+    "score": 45,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Provable Generalization in Overparameterized Neural Nets",
+    "reason": "regimes:9, classical:5, probabilistic_information:5, scaling_architectures:3, surveys_synthesis:2, queries:3"
+  },
+  {
+    "record_id": "D-5158",
+    "score": 45,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Understanding Double Descent Using VC-Theoretical Framework",
+    "reason": "regimes:13, classical:10, surveys_synthesis:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5138",
+    "score": 45,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "The Neural Tangent Kernel in High Dimensions: Triple Descent and a Multi-Scale Theory of Generalization",
+    "reason": "regimes:16, classical:2, queries:4, hits:8"
+  },
+  {
+    "record_id": "D-6142",
+    "score": 42,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Uniform Generalization Bounds for Overparameterized Neural Networks",
+    "reason": "regimes:9, probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0877",
+    "score": 40,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Sharp Generalization for Nonparametric Regression in Interpolation Space by Over-Parameterized Neural Networks Trained with Preconditioned Gradient Descent and Early Stopping",
+    "reason": "regimes:14, classical:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5193",
+    "score": 40,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "VC Theoretical Explanation of Double Descent",
+    "reason": "regimes:11, classical:10, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0637",
+    "score": 40,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "Generalization Through The Lens Of Leave-One-Out Error",
+    "reason": "regimes:6, classical:3, probabilistic_information:2, surveys_synthesis:2, queries:6, hits:6"
+  },
+  {
+    "record_id": "D-6139",
+    "score": 39,
+    "theme": "regimes",
+    "year": "2026",
+    "title": "Towards Initialization-dependent and Non-vacuous Generalization Bounds for Overparameterized Shallow Neural Networks",
+    "reason": "regimes:9, probabilistic_information:6, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-6189",
+    "score": 38,
+    "theme": "regimes",
+    "year": "2026",
+    "title": "Remarks on Lipschitz-Minimal Interpolation: Generalization Bounds and Neural Network Implementation",
+    "reason": "regimes:10, probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6164",
+    "score": 38,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Non-Asymptotic Optimization and Generalization Bounds for Stochastic Gauss-Newton in Overparameterized Models",
+    "reason": "regimes:9, probabilistic_information:8, landscape:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5171",
+    "score": 38,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "A Farewell to the Bias-Variance Tradeoff? An Overview of the Theory of Overparameterized Machine Learning",
+    "reason": "regimes:12, surveys_synthesis:10, queries:2, hits:3"
+  },
+  {
+    "record_id": "D-0186",
+    "score": 38,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "Benefit of deep learning with non-convex noisy gradient descent: Provable excess risk bound and superiority to kernel methods",
+    "reason": "regimes:5, classical:3, landscape:2, surveys_synthesis:2, queries:5, hits:7"
+  },
+  {
+    "record_id": "D-6100",
+    "score": 38,
+    "theme": "regimes",
+    "year": "2019",
+    "title": "Algorithm-Dependent Generalization Bounds for Overparameterized Deep Residual Networks",
+    "reason": "regimes:9, probabilistic_information:8, surveys_synthesis:2, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-6427",
+    "score": 37,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "Limitations of the NTK for Understanding Generalization in Deep Learning",
+    "reason": "regimes:11, surveys_synthesis:5, probabilistic_information:3, scaling_architectures:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0594",
+    "score": 36,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Path Regularization: A Near-Complete and Optimal Nonasymptotic Generalization Theory for Multilayer Neural Networks and Double Descent Phenomenon",
+    "reason": "regimes:11, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1587",
+    "score": 36,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "One-Step Early Stopping Strategy using Neural Tangent Kernel Theory and Rademacher Complexity",
+    "reason": "regimes:11, classical:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5210",
+    "score": 36,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Asymptotic Risk of Overparameterized Likelihood Models: Double Descent Theory for Deep Neural Networks",
+    "reason": "regimes:20, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5546",
+    "score": 33,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Towards a Statistical Understanding of Neural Networks: Beyond the Neural Tangent Kernel Theories",
+    "reason": "regimes:11, surveys_synthesis:9, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1545",
+    "score": 33,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "Neural Networks with Sparse Activation Induced by Large Bias: Tighter Analysis with Bias-Generalized NTK",
+    "reason": "regimes:11, classical:3, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0408",
+    "score": 33,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Multi-scale Feature Learning Dynamics: Insights for Double Descent",
+    "reason": "regimes:18, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0402",
+    "score": 33,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "Understanding Double Descent Requires a Fine-Grained Bias-Variance Decomposition",
+    "reason": "regimes:13, surveys_synthesis:7, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6074",
+    "score": 33,
+    "theme": "regimes",
+    "year": "2018",
+    "title": "Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers",
+    "reason": "regimes:12, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-6174",
+    "score": 32,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Understanding the role of depth in the neural tangent kernel for overparameterized neural networks",
+    "reason": "regimes:17, surveys_synthesis:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2111",
+    "score": 32,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "A note on regularised NTK dynamics with an application to PAC-Bayesian training",
+    "reason": "regimes:11, classical:10, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0336",
+    "score": 32,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "Memorizing without overfitting: Bias, variance, and interpolation in overparameterized models",
+    "reason": "regimes:15, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-6073",
+    "score": 32,
+    "theme": "regimes",
+    "year": "2019",
+    "title": "Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks",
+    "reason": "regimes:7, probabilistic_information:2, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-4673",
+    "score": 32,
+    "theme": "regimes",
+    "year": "2019",
+    "title": "Exact expressions for double descent and implicit regularization via surrogate random design",
+    "reason": "regimes:11, landscape:9, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5547",
+    "score": 31,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "When Training-Free NAS Meets Vision Transformer: A Neural Tangent Kernel Perspective",
+    "reason": "regimes:11, scaling_architectures:7, surveys_synthesis:6, probabilistic_information:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0175",
+    "score": 31,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Understanding the Double Descent Phenomenon in Deep Learning",
+    "reason": "regimes:11, surveys_synthesis:5, classical:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0013",
+    "score": 31,
+    "theme": "regimes",
+    "year": "2019",
+    "title": "The generalization error of random features regression: Precise asymptotics and double descent curve",
+    "reason": "regimes:11, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-1571",
+    "score": 30,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel",
+    "reason": "regimes:5, classical:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1611",
+    "score": 30,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Early Stopping Strategy using Neural Tangent Kernel Theory and Rademacher Complexity",
+    "reason": "regimes:8, classical:7, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-4552",
+    "score": 30,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "Learning through atypical phase transitions in overparameterized neural networks",
+    "reason": "regimes:12, landscape:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0885",
+    "score": 30,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "Homophily modulates double descent generalization in graph convolution networks",
+    "reason": "regimes:11, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6162",
+    "score": 30,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "Frozen Overparameterization: A Double Descent Perspective on Transfer Learning of Deep Neural Networks",
+    "reason": "regimes:13, surveys_synthesis:6, scaling_architectures:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6102",
+    "score": 30,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "A generalized neural tangent kernel analysis for two-layer neural networks",
+    "reason": "regimes:13, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5550",
+    "score": 29,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Understanding the Evolution of the Neural Tangent Kernel at the Edge of Stability",
+    "reason": "regimes:11, probabilistic_information:8, surveys_synthesis:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5924",
+    "score": 29,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Spring-block theory of feature learning in deep neural networks",
+    "reason": "regimes:10, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5239",
+    "score": 28,
+    "theme": "regimes",
+    "year": "2026",
+    "title": "The Survival Double Descent: Generalization Dynamics of Deep Neural Networks in Time-to-Event Analysis",
+    "reason": "regimes:11, classical:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4115",
+    "score": 46,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Closing the Curvature Gap: Full Transformer Hessians and Their Implications for Scaling Laws",
+    "reason": "scaling_architectures:20, landscape:11, probabilistic_information:3, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-6673",
+    "score": 46,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Understanding Scaling Laws with Statistical and Approximation Theory for Transformer Neural Networks on Intrinsically Low-dimensional Data",
+    "reason": "scaling_architectures:20, surveys_synthesis:7, landscape:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5916",
+    "score": 38,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Scaling Laws and Spectra of Shallow Neural Networks in the Feature Learning Regime",
+    "reason": "scaling_architectures:11, regimes:10, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6762",
+    "score": 36,
+    "theme": "scaling_architectures",
+    "year": "2022",
+    "title": "Scaling Laws for Transformers on Low-Dimensional Data: A Statistical and Approximation Theory Perspective",
+    "reason": "scaling_architectures:13, surveys_synthesis:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6670",
+    "score": 35,
+    "theme": "scaling_architectures",
+    "year": "2026",
+    "title": "Generalization and Scaling Laws for Mixture-of-Experts Transformers",
+    "reason": "scaling_architectures:13, classical:2, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-5926",
+    "score": 34,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics",
+    "reason": "scaling_architectures:11, regimes:10, surveys_synthesis:5, queries:2, hits:2, application_penalty:1"
+  },
+  {
+    "record_id": "D-6680",
+    "score": 33,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory",
+    "reason": "scaling_architectures:20, surveys_synthesis:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6722",
+    "score": 32,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Single-Head Attention in High Dimensions: A Theory of Generalization, Weights Spectra, and Scaling Laws",
+    "reason": "scaling_architectures:11, regimes:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6672",
+    "score": 31,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Diversity of Transformer Layers: One Aspect of Parameter Scaling Laws",
+    "reason": "scaling_architectures:18, probabilistic_information:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-7753",
+    "score": 31,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Understanding the Generalization of Pretrained Diffusion Models on Out-of-Distribution Data",
+    "reason": "scaling_architectures:9, surveys_synthesis:7, probabilistic_information:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5552",
+    "score": 31,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "How Feature Learning Can Improve Neural Scaling Laws",
+    "reason": "scaling_architectures:11, regimes:10, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2645",
+    "score": 31,
+    "theme": "scaling_architectures",
+    "year": "2021",
+    "title": "Chaos and complexity from quantum neural network. A study with diffusion metric in machine learning",
+    "reason": "scaling_architectures:9, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6689",
+    "score": 30,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Unifying Learning Dynamics and Generalization in Transformers Scaling Law",
+    "reason": "scaling_architectures:13, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3556",
+    "score": 30,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Improving Systematic Generalization of Linear Transformer Using Normalization Layers and Orthogonality Loss Function",
+    "reason": "scaling_architectures:9, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6698",
+    "score": 29,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Optimal Scaling Laws for Efficiency Gains in a Theoretical Transformer-Augmented Sectional MoE Framework",
+    "reason": "scaling_architectures:20, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6228",
+    "score": 29,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Unified Neural Network Scaling Laws and Scale-time Equivalence",
+    "reason": "scaling_architectures:11, regimes:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6463",
+    "score": 29,
+    "theme": "scaling_architectures",
+    "year": "2021",
+    "title": "Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality",
+    "reason": "scaling_architectures:8, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5972",
+    "score": 28,
+    "theme": "scaling_architectures",
+    "year": "2026",
+    "title": "Tuning the Implicit Regularizer of Masked Diffusion Language Models: Enhancing Generalization via Insights from $k$-Parity",
+    "reason": "scaling_architectures:9, regimes:3, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6748",
+    "score": 28,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Predictable Scale: Part I, Step Law -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining",
+    "reason": "scaling_architectures:18, landscape:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6711",
+    "score": 28,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Scaling Laws for Linear Complexity Language Models",
+    "reason": "scaling_architectures:13, classical:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-7698",
+    "score": 27,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "THERMODYNAMIC GENERALIZATION OF THE THEORY OF THERMOELASTIC DIFFUSION FOR A MEDIUM WITH CHANGING DENSITY",
+    "reason": "scaling_architectures:9, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5968",
+    "score": 27,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Analyzing Neural Scaling Laws in Two-Layer Networks with Power-Law Data Spectra",
+    "reason": "scaling_architectures:11, regimes:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6731",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2026",
+    "title": "Information-Theoretic Scaling Laws of Neural Quantum States",
+    "reason": "scaling_architectures:13, probabilistic_information:10, classical:2, queries:1, hits:1, application_penalty:1"
+  },
+  {
+    "record_id": "D-3222",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Improving Generalization of Medical Image Registration Foundation Model",
+    "reason": "scaling_architectures:7, probabilistic_information:2, landscape:2, queries:2, hits:2, application_penalty:1"
+  },
+  {
+    "record_id": "D-4726",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Scaling Laws in Linear Regression: Compute, Parameters, and Data",
+    "reason": "scaling_architectures:11, probabilistic_information:3, landscape:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6671",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Scaling Laws For Diffusion Transformers",
+    "reason": "scaling_architectures:20, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6889",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Scaling Laws Across Model Architectures: A Comparative Analysis of Dense and MoE Models in Large Language Models",
+    "reason": "scaling_architectures:11, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-7169",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "In-Context Learning of Linear Systems: Generalization Theory and Applications to Operator Learning",
+    "reason": "scaling_architectures:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6904",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2023",
+    "title": "Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws",
+    "reason": "scaling_architectures:20, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6543",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2020",
+    "title": "Review for \"General statistical scaling laws for stability in ecological systems\"",
+    "reason": "scaling_architectures:8, probabilistic_information:6, surveys_synthesis:6, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6575",
+    "score": 26,
+    "theme": "scaling_architectures",
+    "year": "2020",
+    "title": "Medium-Frequency Transformer Scaling Laws: Derivation, Verif ication, and Critical Analysis",
+    "reason": "scaling_architectures:18, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6705",
+    "score": 25,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Scaling Laws and In-Context Learning: A Unified Theoretical Framework",
+    "reason": "scaling_architectures:11, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-7706",
+    "score": 25,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "A Generalization Error Bound of Physics‐Informed Neural Networks for Ecological Diffusion Models",
+    "reason": "scaling_architectures:9, surveys_synthesis:2, queries:1, hits:1, application_penalty:2"
+  },
+  {
+    "record_id": "D-7055",
+    "score": 25,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "SCFormer: Spectral Coordinate Transformer for Cross-Domain Few-Shot Hyperspectral Image Classification",
+    "reason": "scaling_architectures:9, probabilistic_information:3, classical:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6650",
+    "score": 25,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference",
+    "reason": "scaling_architectures:9, surveys_synthesis:8, classical:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6696",
+    "score": 25,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "A Tale of Tails: Model Collapse as a Change of Scaling Laws",
+    "reason": "scaling_architectures:13, classical:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-7560",
+    "score": 25,
+    "theme": "scaling_architectures",
+    "year": "2015",
+    "title": "Submodels of the generalization of the Leith model of the phenomenological theory of turbulence and of the model of nonlinear diffusion in the inhomogeneous media without absorption",
+    "reason": "scaling_architectures:9, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-7722",
+    "score": 25,
+    "theme": "scaling_architectures",
+    "year": "1979",
+    "title": "Molecular theory of translational diffusion: Microscopic generalization of the normal velocity boundary condition",
+    "reason": "scaling_architectures:9, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0208",
+    "score": 24,
+    "theme": "scaling_architectures",
+    "year": "None",
+    "title": "Mathematics of deep learning : generalization, optimization, continuous-time models",
+    "reason": "scaling_architectures:2, queries:9, hits:9"
+  },
+  {
+    "record_id": "D-6712",
+    "score": 24,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "xLSTM Scaling Laws: Competitive Performance with Linear Time-Complexity",
+    "reason": "scaling_architectures:13, probabilistic_information:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0101",
+    "score": 41,
+    "theme": "surveys_synthesis",
+    "year": "2020",
+    "title": "Representation Based Complexity Measures for Predicting Generalization in Deep Learning",
+    "reason": "surveys_synthesis:7, classical:3, probabilistic_information:3, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-0045",
+    "score": 40,
+    "theme": "surveys_synthesis",
+    "year": "2017",
+    "title": "Towards Understanding Generalization of Deep Learning: Perspective of Loss Landscapes",
+    "reason": "surveys_synthesis:11, landscape:5, queries:5, hits:5"
+  },
+  {
+    "record_id": "D-0117",
+    "score": 37,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "Explaining generalization in deep learning: progress and fundamental limits",
+    "reason": "surveys_synthesis:7, classical:5, probabilistic_information:2, regimes:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1914",
+    "score": 37,
+    "theme": "surveys_synthesis",
+    "year": "2020",
+    "title": "Understanding Generalization in Deep Learning via Tensor Methods",
+    "reason": "surveys_synthesis:7, probabilistic_information:5, classical:3, queries:2, hits:3"
+  },
+  {
+    "record_id": "D-1086",
+    "score": 36,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "Understanding deep learning (still) requires rethinking generalization",
+    "reason": "surveys_synthesis:7, queries:18, hits:18"
+  },
+  {
+    "record_id": "D-1092",
+    "score": 35,
+    "theme": "surveys_synthesis",
+    "year": "2025",
+    "title": "Understanding Machine Learning Principles: Learning, Inference, Generalization, and Computational Learning Theory",
+    "reason": "surveys_synthesis:7, classical:3, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-2307",
+    "score": 33,
+    "theme": "surveys_synthesis",
+    "year": "2023",
+    "title": "Understanding the Generalization Ability of Deep Learning Algorithms: A Kernelized Renyi's Entropy Perspective",
+    "reason": "surveys_synthesis:13, probabilistic_information:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4492",
+    "score": 32,
+    "theme": "surveys_synthesis",
+    "year": "2026",
+    "title": "A Flat Minima Perspective on Understanding Augmentations and Model Robustness",
+    "reason": "surveys_synthesis:13, landscape:11, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5960",
+    "score": 32,
+    "theme": "surveys_synthesis",
+    "year": "2024",
+    "title": "A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities",
+    "reason": "surveys_synthesis:8, regimes:3, classical:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0118",
+    "score": 32,
+    "theme": "surveys_synthesis",
+    "year": "2020",
+    "title": "Recent advances in deep learning theory",
+    "reason": "surveys_synthesis:7, classical:2, landscape:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3035",
+    "score": 31,
+    "theme": "surveys_synthesis",
+    "year": "2019",
+    "title": "Theoretical Issues in Deep Networks: Approximation, Optimization and Generalization",
+    "reason": "surveys_synthesis:4, classical:3, landscape:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0002",
+    "score": 31,
+    "theme": "surveys_synthesis",
+    "year": "2019",
+    "title": "Survey on deep learning with class imbalance",
+    "reason": "surveys_synthesis:8, regimes:3, queries:6, hits:6, application_penalty:1"
+  },
+  {
+    "record_id": "D-3219",
+    "score": 30,
+    "theme": "surveys_synthesis",
+    "year": "2025",
+    "title": "A Survey of Optimization Methods for Training DL Models: Theoretical Perspective on Convergence and Generalization",
+    "reason": "surveys_synthesis:10, landscape:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-8798",
+    "score": 30,
+    "theme": "surveys_synthesis",
+    "year": "2024",
+    "title": "Understanding Surprising Generalization Phenomena in Deep Learning",
+    "reason": "surveys_synthesis:9, classical:2, landscape:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4636",
+    "score": 30,
+    "theme": "surveys_synthesis",
+    "year": "2024",
+    "title": "Deep networks for system identification: A survey",
+    "reason": "surveys_synthesis:10, probabilistic_information:3, landscape:2, regimes:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1156",
+    "score": 30,
+    "theme": "surveys_synthesis",
+    "year": "2022",
+    "title": "Why Robust Generalization in Deep Learning is Difficult: Perspective of Expressive Power",
+    "reason": "surveys_synthesis:8, classical:3, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-4147",
+    "score": 30,
+    "theme": "surveys_synthesis",
+    "year": "2017",
+    "title": "Theory of Deep Learning III: explaining the non-overfitting puzzle",
+    "reason": "surveys_synthesis:7, landscape:5, classical:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0520",
+    "score": 30,
+    "theme": "surveys_synthesis",
+    "year": "2014",
+    "title": "A tutorial survey of architectures, algorithms, and applications for deep learning",
+    "reason": "surveys_synthesis:10, regimes:3, queries:5, hits:5"
+  },
+  {
+    "record_id": "D-3298",
+    "score": 29,
+    "theme": "surveys_synthesis",
+    "year": "2025",
+    "title": "Understanding the Generalization Performance Of  Deep Learning: A New Weak Dependence Perspective",
+    "reason": "surveys_synthesis:11, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-0603",
+    "score": 29,
+    "theme": "surveys_synthesis",
+    "year": "2025",
+    "title": "Survey on Generalization Theory for Graph Neural Networks",
+    "reason": "surveys_synthesis:8, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1050",
+    "score": 29,
+    "theme": "surveys_synthesis",
+    "year": "2024",
+    "title": "Understanding quantum machine learning also requires rethinking generalization",
+    "reason": "surveys_synthesis:7, classical:3, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2786",
+    "score": 29,
+    "theme": "surveys_synthesis",
+    "year": "2022",
+    "title": "Towards understanding how momentum improves generalization in deep learning",
+    "reason": "surveys_synthesis:7, probabilistic_information:3, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-3363",
+    "score": 29,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "Learning While Dissipating Information: Understanding the Generalization Capability of SGLD.",
+    "reason": "surveys_synthesis:7, probabilistic_information:5, landscape:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0066",
+    "score": 29,
+    "theme": "surveys_synthesis",
+    "year": "1996",
+    "title": "Reinforcement Learning: A Survey",
+    "reason": "surveys_synthesis:10, queries:9, hits:9"
+  },
+  {
+    "record_id": "D-0203",
+    "score": 28,
+    "theme": "surveys_synthesis",
+    "year": "None",
+    "title": "Fractal-based complexity measures for predicting generalization in deep neural networks",
+    "reason": "surveys_synthesis:5, queries:5, hits:5"
+  },
+  {
+    "record_id": "D-1164",
+    "score": 28,
+    "theme": "surveys_synthesis",
+    "year": "2024",
+    "title": "Convolutional Networks as Extremely Small Foundation Models: Visual Prompting and Theoretical Perspective",
+    "reason": "surveys_synthesis:8, classical:3, queries:2, hits:2, application_penalty:1"
+  },
+  {
+    "record_id": "D-3307",
+    "score": 28,
+    "theme": "surveys_synthesis",
+    "year": "2023",
+    "title": "A Review of Research on Generalization Error Analysis of Deep Learning Models",
+    "reason": "surveys_synthesis:6, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-2637",
+    "score": 28,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects",
+    "reason": "surveys_synthesis:8, queries:5, hits:5"
+  },
+  {
+    "record_id": "D-1748",
+    "score": 28,
+    "theme": "surveys_synthesis",
+    "year": "2020",
+    "title": "Compressive Sensing and Neural Networks from a Statistical Learning Perspective",
+    "reason": "surveys_synthesis:8, classical:5, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-7247",
+    "score": 28,
+    "theme": "surveys_synthesis",
+    "year": "2017",
+    "title": "Towards a unifying theory of generalization",
+    "reason": "surveys_synthesis:2, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-0612",
+    "score": 27,
+    "theme": "surveys_synthesis",
+    "year": "2024",
+    "title": "A Manifold Perspective on the Statistical Generalization of Graph Neural Networks",
+    "reason": "surveys_synthesis:8, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3158",
+    "score": 27,
+    "theme": "surveys_synthesis",
+    "year": "2023",
+    "title": "A survey of uncertainty in deep neural networks",
+    "reason": "surveys_synthesis:8, probabilistic_information:3, queries:10, hits:10, application_penalty:1"
+  },
+  {
+    "record_id": "D-3879",
+    "score": 27,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications",
+    "reason": "surveys_synthesis:15, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-5216",
+    "score": 27,
+    "theme": "surveys_synthesis",
+    "year": "2020",
+    "title": "Bayesian Deep Learning and a Probabilistic Perspective of Generalization",
+    "reason": "surveys_synthesis:6, probabilistic_information:3, regimes:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2273",
+    "score": 27,
+    "theme": "surveys_synthesis",
+    "year": "2019",
+    "title": "A survey on semi-supervised learning",
+    "reason": "surveys_synthesis:10, queries:8, hits:8"
+  },
+  {
+    "record_id": "D-2019",
+    "score": 27,
+    "theme": "surveys_synthesis",
+    "year": "2015",
+    "title": "Understanding Machine Learning: From Theory To Algorithms",
+    "reason": "surveys_synthesis:7, probabilistic_information:5, classical:3, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-0220",
+    "score": 26,
+    "theme": "surveys_synthesis",
+    "year": "None",
+    "title": "Sparsity in deep learning : from the efficiency and generalization perspective",
+    "reason": "surveys_synthesis:6, queries:6, hits:6"
+  },
+  {
+    "record_id": "D-2227",
+    "score": 26,
+    "theme": "surveys_synthesis",
+    "year": "2024",
+    "title": "Generalization potential of large language models",
+    "reason": "surveys_synthesis:4, probabilistic_information:3, classical:2, landscape:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3037",
+    "score": 26,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization",
+    "reason": "surveys_synthesis:7, landscape:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0105",
+    "score": 26,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "Model Complexity of Deep Learning: A Survey",
+    "reason": "surveys_synthesis:8, classical:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0671",
+    "score": 33,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Class-wise Generalization Error: an Information-Theoretic Analysis",
+    "reason": "probabilistic_information:12, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1966",
+    "score": 33,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "PAC-Bayes Unleashed: Generalisation Bounds with Unbounded Losses",
+    "reason": "probabilistic_information:11, classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1880",
+    "score": 33,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Localized Meta-Learning: A PAC-Bayes Analysis for Meta-Learning Beyond Global Prior",
+    "reason": "probabilistic_information:11, classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4664",
+    "score": 33,
+    "theme": "probabilistic_information",
+    "year": "2017",
+    "title": "Generalization Bounds of SGLD for Non-convex Learning: Two Theoretical Viewpoints",
+    "reason": "probabilistic_information:8, classical:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1915",
+    "score": 32,
+    "theme": "probabilistic_information",
+    "year": "2026",
+    "title": "Bound to Disagree: Generalization Bounds via Certifiable Surrogates",
+    "reason": "probabilistic_information:11, classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2125",
+    "score": 32,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "A PAC-Bayesian Framework for Optimal Control with Stability Guarantees",
+    "reason": "probabilistic_information:11, classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1716",
+    "score": 32,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Generalization Bounds for Adversarial Contrastive Learning",
+    "reason": "probabilistic_information:6, classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2774",
+    "score": 32,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Generalization Bounds of Nonconvex-(Strongly)-Concave Stochastic Minimax Optimization",
+    "reason": "probabilistic_information:8, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1898",
+    "score": 32,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Learning PAC-Bayes Priors for Probabilistic Neural Networks",
+    "reason": "probabilistic_information:11, classical:10, queries:2, hits:3"
+  },
+  {
+    "record_id": "D-1727",
+    "score": 32,
+    "theme": "probabilistic_information",
+    "year": "2020",
+    "title": "Generalization bounds for deep thresholding networks.",
+    "reason": "probabilistic_information:8, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1363",
+    "score": 32,
+    "theme": "probabilistic_information",
+    "year": "2018",
+    "title": "Chaining Mutual Information and Tightening Generalization Bounds",
+    "reason": "probabilistic_information:11, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1919",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "None",
+    "title": "PAC-Bayes Learning from an Optimisation Perspective",
+    "reason": "probabilistic_information:11, classical:10, surveys_synthesis:6, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1550",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "2026",
+    "title": "Generalization Bounds for Physics-Informed Neural Networks for the Incompressible Navier-Stokes Equations",
+    "reason": "probabilistic_information:8, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1167",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Architecture independent generalization bounds for overparametrized deep ReLU networks",
+    "reason": "probabilistic_information:8, classical:3, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2804",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Towards Stability and Generalization Bounds in Decentralized Minibatch Stochastic Gradient Descent",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2282",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Information-theoretic Generalization Analysis for Expected Calibration Error",
+    "reason": "probabilistic_information:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1278",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "How Does Information Bottleneck Help Deep Learning?",
+    "reason": "probabilistic_information:9, classical:3, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1974",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Still No Free Lunches: The Price to Pay for Tighter PAC-Bayes Bounds",
+    "reason": "probabilistic_information:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1969",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "PAC-Bayes Bounds on Variational Tempered Posteriors for Markov Models",
+    "reason": "probabilistic_information:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1944",
+    "score": 31,
+    "theme": "probabilistic_information",
+    "year": "2020",
+    "title": "Randomized learning and generalization of fair and private classifiers: From PAC-Bayes to stability and differential privacy",
+    "reason": "probabilistic_information:14, classical:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2100",
+    "score": 30,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Non-vacuous Generalization Bounds for Deep Neural Networks without any modification to the trained models",
+    "reason": "probabilistic_information:12, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2087",
+    "score": 30,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Probabilistic fine-tuning of pruning masks and PAC-Bayes self-bounded learning",
+    "reason": "probabilistic_information:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2641",
+    "score": 30,
+    "theme": "probabilistic_information",
+    "year": "2019",
+    "title": "High probability generalization bounds for uniformly stable algorithms with nearly optimal rate",
+    "reason": "probabilistic_information:11, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-1931",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "None",
+    "title": "PAC-Bayes Bounds for Bandit Problems: A Survey and Experimental Comparison_supp1-3305381.pdf",
+    "reason": "probabilistic_information:8, classical:7, surveys_synthesis:6, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2357",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "None",
+    "title": "Distributed and Federated Learning Systems : Information-Theoretic Generalization Bounds and Algorithms",
+    "reason": "probabilistic_information:13, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2523",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Optimizer-Dependent Generalization Bound for Quantum Neural Networks",
+    "reason": "probabilistic_information:2, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1897",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "How good is PAC-Bayes at explaining generalisation?",
+    "reason": "probabilistic_information:11, classical:10, surveys_synthesis:5, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0914",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Topological Generalization Bounds for Discrete-Time Stochastic Optimization Algorithms",
+    "reason": "probabilistic_information:6, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2690",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "High-probability generalization bounds for pointwise uniformly stable algorithms",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2741",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Stability-based Generalization Analysis for Mixtures of Pointwise and Pairwise Learning",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2650",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Stability-Based Generalization Analysis of the Asynchronous Decentralized SGD",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6115",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Dynamics in Deep Classifiers Trained with the Square Loss: Normalization, Low Rank, Neural Collapse, and Generalization Bounds",
+    "reason": "probabilistic_information:6, regimes:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1933",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Stability-based PAC-Bayes analysis for multi-view learning algorithms",
+    "reason": "probabilistic_information:14, classical:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2750",
+    "score": 29,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Stability Analysis and Generalization Bounds of Adversarial Training",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1763",
+    "score": 29,
+    "theme": "classical",
+    "year": "2019",
+    "title": "Self-Adaptive Deep Multiple Kernel Learning Based on Rademacher Complexity",
+    "reason": "classical:10, probabilistic_information:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1516",
+    "score": 29,
+    "theme": "classical",
+    "year": "2018",
+    "title": "Hyperparameter Learning for Conditional Kernel Mean Embeddings with Rademacher Complexity Bounds",
+    "reason": "classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1492",
+    "score": 29,
+    "theme": "classical",
+    "year": "2016",
+    "title": "Lessons from the Rademacher complexity for deep learning",
+    "reason": "classical:10, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-2765",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2026",
+    "title": "Generalization Bounds of Stochastic Gradient Descent in Homogeneous Neural Networks",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1917",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Variational Learning Finds Flatter Solutions at the Edge of Stability",
+    "reason": "probabilistic_information:11, classical:3, landscape:2, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-6173",
+    "score": 28,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Linear regression with overparameterized linear neural networks: Tight upper and lower bounds for implicit $\\ell^1$-regularization",
+    "reason": "regimes:9, probabilistic_information:3, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2773",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "A Unified Stability Analysis of SAM vs SGD: Role of Data Coherence and Emergence of Simplicity Bias",
+    "reason": "probabilistic_information:11, landscape:3, regimes:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1553",
+    "score": 28,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Refined generalization analysis of the Deep Ritz Method and Physics-Informed Neural Networks",
+    "reason": "classical:3, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3316",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Efficient Loss Landscape Reshaping for Convolutional Neural Networks",
+    "reason": "landscape:13, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1578",
+    "score": 28,
+    "theme": "classical",
+    "year": "2024",
+    "title": "A Generalization Bound for a Family of Implicit Networks",
+    "reason": "classical:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3172",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Why Does Sharpness-Aware Minimization Generalize Better Than SGD?",
+    "reason": "landscape:13, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3891",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Unveiling the Hessian's Connection to the Decision Boundary",
+    "reason": "landscape:11, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-2754",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Understanding Generalization of Federated Learning via Stability: Heterogeneity Matters",
+    "reason": "probabilistic_information:8, surveys_synthesis:5, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4135",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Sharpness-Aware Minimization and the Edge of Stability",
+    "reason": "landscape:11, probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1829",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Sharpness-Aware Minimization Revisited: Weighted Sharpness as a Regularization Term",
+    "reason": "landscape:8, classical:3, probabilistic_information:2, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-5617",
+    "score": 28,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "Quantum-classical hybrid neural networks in the neural tangent kernel regime",
+    "reason": "regimes:18, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1589",
+    "score": 28,
+    "theme": "classical",
+    "year": "2023",
+    "title": "Optimization dependent generalization bound for ReLU networks based on sensitivity in the tangent bundle",
+    "reason": "classical:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-3193",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "On the curvature of the loss landscape",
+    "reason": "landscape:21, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2108",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Feature Noise Boosts DNN Generalization under Label Noise",
+    "reason": "probabilistic_information:8, classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0417",
+    "score": 28,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "A U-turn on Double Descent: Rethinking Parameter Counting in Statistical Learning",
+    "reason": "regimes:11, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-0587",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "When Do Extended Physics-Informed Neural Networks (XPINNs) Improve Generalization?",
+    "reason": "probabilistic_information:5, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-4707",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Understanding Gradient Descent on Edge of Stability in Deep Learning",
+    "reason": "probabilistic_information:8, surveys_synthesis:7, landscape:5, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3347",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Towards Generalization of Medical Imaging AI Models: Sharpness-Aware Minimizers and Beyond",
+    "reason": "landscape:13, queries:1, hits:1, application_penalty:1"
+  },
+  {
+    "record_id": "D-6172",
+    "score": 28,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "On the optimization and generalization of overparameterized implicit neural networks",
+    "reason": "regimes:7, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1510",
+    "score": 28,
+    "theme": "classical",
+    "year": "2022",
+    "title": "Adversarial Rademacher Complexity of Deep Neural Networks",
+    "reason": "classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5134",
+    "score": 28,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "The Generalization Error of Random Features Regression: Precise Asymptotics and the Double Descent Curve",
+    "reason": "regimes:11, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1129",
+    "score": 28,
+    "theme": "classical",
+    "year": "2021",
+    "title": "Learning Theory Can (Sometimes) Explain Generalisation in Graph Neural Networks",
+    "reason": "classical:3, surveys_synthesis:2, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-6176",
+    "score": 28,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Generalization of GANs and overparameterized models under Lipschitz continuity",
+    "reason": "regimes:9, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1534",
+    "score": 28,
+    "theme": "classical",
+    "year": "2021",
+    "title": "Generalization Error Bounds for Iterative Recovery Algorithms Unfolded as Neural Networks",
+    "reason": "classical:3, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2939",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2021",
+    "title": "Entropic gradient descent algorithms and wide flat minima",
+    "reason": "landscape:13, queries:3, hits:5"
+  },
+  {
+    "record_id": "D-3223",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2021",
+    "title": "Eliminating Sharp Minima from SGD with Truncated Heavy-tailed Noise",
+    "reason": "landscape:13, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3396",
+    "score": 28,
+    "theme": "landscape",
+    "year": "2020",
+    "title": "Sharpness-Aware Minimization for Efficiently Improving Generalization",
+    "reason": "landscape:10, probabilistic_information:3, regimes:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1562",
+    "score": 28,
+    "theme": "classical",
+    "year": "2020",
+    "title": "Interpretable Deep Recurrent Neural Networks via Unfolding Reweighted $\\ell_1$-$\\ell_1$ Minimization: Architecture Design and Generalization Analysis",
+    "reason": "classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2624",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2020",
+    "title": "Fine-Grained Analysis of Stability and Generalization for Stochastic\\n Gradient Descent",
+    "reason": "probabilistic_information:8, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-2088",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2019",
+    "title": "Unifying Variational Inference and PAC-Bayes for Supervised Learning that Scales",
+    "reason": "probabilistic_information:11, classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0632",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2019",
+    "title": "Improved Generalization Bounds of Group Invariant / Equivariant Deep Networks via Quotient Feature Spaces",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1818",
+    "score": 28,
+    "theme": "classical",
+    "year": "2018",
+    "title": "Deep learning generalizes because the parameter-function map is biased towards simple functions",
+    "reason": "classical:3, probabilistic_information:3, landscape:2, surveys_synthesis:2, queries:3, hits:5"
+  },
+  {
+    "record_id": "D-2639",
+    "score": 28,
+    "theme": "classical",
+    "year": "2017",
+    "title": "A PAC-Bayesian Analysis of Randomized Learning with Application to Stochastic Gradient Descent",
+    "reason": "classical:10, probabilistic_information:5, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-2752",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2016",
+    "title": "Generalization Error Bounds for Optimization Algorithms via Stability",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1996",
+    "score": 28,
+    "theme": "probabilistic_information",
+    "year": "2015",
+    "title": "Comment: Transductive PAC-Bayes Bounds Seen as a Generalization of Vapnik–Chervonenkis Bounds",
+    "reason": "probabilistic_information:8, classical:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0215",
+    "score": 27,
+    "theme": "regimes",
+    "year": "None",
+    "title": "Exploring the generalization capabilities of deep learning architectures for universal image feature learning",
+    "reason": "regimes:7, queries:6, hits:6"
+  },
+  {
+    "record_id": "D-0267",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "None",
+    "title": "Design of Deep Learning Classification Algorithms based on Information and Complexity Metrics",
+    "reason": "probabilistic_information:3, surveys_synthesis:2, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-4121",
+    "score": 27,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "Wolkowicz-Styan Upper Bound on the Hessian Eigenspectrum for Cross-Entropy Loss in Nonlinear Smooth Neural Networks",
+    "reason": "landscape:13, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1770",
+    "score": 27,
+    "theme": "classical",
+    "year": "2026",
+    "title": "Rademacher Complexity for Distributionally Robust Learning",
+    "reason": "classical:10, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5930",
+    "score": 27,
+    "theme": "regimes",
+    "year": "2026",
+    "title": "High-Dimensional Analysis of Gradient Flow for Extensive-Width Quadratic Neural Networks",
+    "reason": "regimes:8, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5213",
+    "score": 27,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Random Matrix Theory for Deep Learning: Beyond Eigenvalues of Linear Models",
+    "reason": "regimes:5, scaling_architectures:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1911",
+    "score": 27,
+    "theme": "classical",
+    "year": "2025",
+    "title": "Position: Many generalization measures for deep learning are fragile",
+    "reason": "classical:3, probabilistic_information:3, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0403",
+    "score": 27,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Evaluating Double Descent in Machine Learning: Insights from Tree-Based Models Applied to a Genomic Prediction Task",
+    "reason": "regimes:11, classical:2, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1577",
+    "score": 27,
+    "theme": "classical",
+    "year": "2025",
+    "title": "Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks",
+    "reason": "classical:3, regimes:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1998",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Deep Exploration with PAC-Bayes",
+    "reason": "probabilistic_information:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2115",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Convergence of Adam in Deep ReLU Networks via Directional Complexity and Kakeya Bounds",
+    "reason": "probabilistic_information:5, classical:3, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2745",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Stability and Generalization for Distributed SGDA",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1905",
+    "score": 27,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Misclassification bounds for PAC-Bayesian sparse deep learning",
+    "reason": "classical:10, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3154",
+    "score": 27,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Generalization performance analysis of anomaly detection-based active sonar classifier using anomaly score landscape",
+    "reason": "landscape:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1978",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Compositional PAC-Bayes: Generalization of GNNs with persistence and beyond",
+    "reason": "probabilistic_information:8, classical:7, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0626",
+    "score": 27,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Branch Scaling Manifests as Implicit Architectural Regularization for Improving Generalization in Overparameterized ResNets",
+    "reason": "regimes:7, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4718",
+    "score": 27,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "Unraveling the Enigma of Double Descent: An In-depth Analysis through the Lens of Learned Feature Space",
+    "reason": "regimes:11, landscape:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2379",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Time-Independent Information-Theoretic Generalization Bounds for SGLD",
+    "reason": "probabilistic_information:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2713",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Stability and Generalization of the Decentralized Stochastic Gradient Descent Ascent Algorithm",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2383",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Sample-Conditioned Hypothesis Stability Sharpens Information-Theoretic Generalization Bounds",
+    "reason": "probabilistic_information:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2740",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Minibatch and Local SGD: Algorithmic Stability and Linear Speedup in Generalization",
+    "reason": "probabilistic_information:8, regimes:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2789",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Lower Generalization Bounds for GD and SGD in Smooth Stochastic Convex Optimization",
+    "reason": "probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2126",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Lessons from Generalization Error Analysis of Federated Learning: You May Communicate Less Often!",
+    "reason": "probabilistic_information:5, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2208",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Information Theoretic Learning-Enhanced Dual-Generative Adversarial Networks With Causal Representation for Robust OOD Generalization",
+    "reason": "probabilistic_information:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2720",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Generalization Bounds for Label Noise Stochastic Gradient Descent",
+    "reason": "probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2381",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "A unified framework for information-theoretic generalization bounds",
+    "reason": "probabilistic_information:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2385",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Stochastic Chaining and Strengthened Information-Theoretic Generalization Bounds",
+    "reason": "probabilistic_information:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2744",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Stability and Generalization of Stochastic Optimization with Nonconvex and Nonsmooth Problems",
+    "reason": "probabilistic_information:8, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4109",
+    "score": 27,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "On the Maximum Hessian Eigenvalue and Generalization",
+    "reason": "landscape:11, probabilistic_information:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2370",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Improved Information Theoretic Generalization Bounds for Distributed and Federated Learning",
+    "reason": "probabilistic_information:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2384",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2022",
+    "title": "Formal limitations of sample-wise information-theoretic generalization bounds",
+    "reason": "probabilistic_information:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2710",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Stability and Generalization of the Decentralized Stochastic Gradient Descent",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2803",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2021",
+    "title": "Stability and Generalization of Decentralized Stochastic Gradient Descent",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1036",
+    "score": 27,
+    "theme": "classical",
+    "year": "2021",
+    "title": "On the stability and generalization of neural networks with VC dimension and fuzzy feature encoders",
+    "reason": "classical:7, probabilistic_information:6, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1291",
+    "score": 27,
+    "theme": "classical",
+    "year": "2021",
+    "title": "Learning Theory Can (Sometimes) Explain Generalisation in Graph Neural\\n Networks",
+    "reason": "classical:3, surveys_synthesis:2, queries:3, hits:6"
+  },
+  {
+    "record_id": "D-2105",
+    "score": 27,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Kernel Interpolation as a Bayes Point Machine",
+    "reason": "regimes:11, classical:3, probabilistic_information:3, landscape:2, surveys_synthesis:2, queries:1"
+  },
+  {
+    "record_id": "D-2738",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2020",
+    "title": "Toward Better Generalization Bounds with Locally Elastic Stability",
+    "reason": "probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3216",
+    "score": 27,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "Notes on Deep Learning Theory",
+    "reason": "regimes:6, landscape:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5711",
+    "score": 27,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "Generalization bound of globally optimal non-convex neural network training: Transportation map estimation by infinite dimensional Langevin dynamics",
+    "reason": "regimes:3, surveys_synthesis:2, queries:1, hits:2"
+  },
+  {
+    "record_id": "D-2712",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2020",
+    "title": "Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent",
+    "reason": "probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2249",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2020",
+    "title": "Dynamics Generalization via Information Bottleneck in Deep Reinforcement Learning",
+    "reason": "probabilistic_information:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1094",
+    "score": 27,
+    "theme": "classical",
+    "year": "2020",
+    "title": "Analysis of Generalizability of Deep Neural Networks Based on the Complexity of Decision Boundary",
+    "reason": "classical:3, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2110",
+    "score": 27,
+    "theme": "probabilistic_information",
+    "year": "2019",
+    "title": "Dissecting Non-Vacuous Generalization Bounds based on the Mean-Field Approximation",
+    "reason": "probabilistic_information:9, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3689",
+    "score": 27,
+    "theme": "landscape",
+    "year": "2018",
+    "title": "The landscape of empirical risk for nonconvex losses",
+    "reason": "landscape:13, classical:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2995",
+    "score": 27,
+    "theme": "landscape",
+    "year": "2018",
+    "title": "SmoothOut: Smoothing Out Sharp Minima to Improve Generalization in Deep Learning",
+    "reason": "landscape:11, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0102",
+    "score": 27,
+    "theme": "landscape",
+    "year": "2017",
+    "title": "Generalization in Deep Learning",
+    "reason": "landscape:3, classical:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1605",
+    "score": 27,
+    "theme": "classical",
+    "year": "2014",
+    "title": "Refined Rademacher Chaos Complexity Bounds with Applications to the Multikernel Learning Problem",
+    "reason": "classical:10, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1046",
+    "score": 27,
+    "theme": "classical",
+    "year": "1994",
+    "title": "Learning and generalization in a two-layer neural network: The role of the Vapnik-Chervonvenkis dimension",
+    "reason": "classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3390",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "Rethinking Graph Generalization through the Lens of Sharpness-Aware Minimization",
+    "reason": "landscape:10, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3771",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "Loss–complexity landscape and model structure functions",
+    "reason": "landscape:8, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2746",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2026",
+    "title": "Fine-grained Analysis of Stability and Generalization for Stochastic Bilevel Optimization",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0281",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2026",
+    "title": "Deep learning and the geometry of compactness in stability and generalization",
+    "reason": "probabilistic_information:6, queries:5, hits:5"
+  },
+  {
+    "record_id": "D-4437",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "Combining Adam and its Inverse Counterpart to Enhance Generalization of Deep Learning Optimizers",
+    "reason": "landscape:3, scaling_architectures:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-3373",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Toward the Flatter Landscape and Better Generalization in Federated Learning Under Client-Level Differential Privacy",
+    "reason": "landscape:10, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5409",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Stability analysis of deep-learning methods for seismic data interpolation",
+    "reason": "regimes:11, probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3230",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "SASSHA: Sharpness-aware Adaptive Second-order Optimization with Stable Hessian Approximation",
+    "reason": "landscape:13, probabilistic_information:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-5577",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Reactivation: Empirical NTK Dynamics Under Task Shifts",
+    "reason": "regimes:11, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-2366",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2025",
+    "title": "Information-Theoretic Generalization Bounds for Deep Neural Networks",
+    "reason": "probabilistic_information:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1143",
+    "score": 26,
+    "theme": "classical",
+    "year": "2025",
+    "title": "Generalizability of Neural Networks Minimizing Empirical Risk Based on Expressive Ability",
+    "reason": "classical:3, probabilistic_information:2, surveys_synthesis:2, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-5571",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Beyond Scaling Curves: Internal Dynamics of Neural Networks Through the NTK Lens",
+    "reason": "regimes:11, scaling_architectures:5, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5201",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition",
+    "reason": "regimes:11, surveys_synthesis:6, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6218",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Theoretical Insights into Overparameterized Models in Multi-Task and Replay-Based Continual Learning",
+    "reason": "regimes:9, classical:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6177",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "The effect of Leaky ReLUs on the training and generalization of overparameterized networks",
+    "reason": "regimes:9, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3412",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Simplicity Bias via Global Convergence of Sharpness Minimization",
+    "reason": "landscape:13, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3409",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Sharpness-Aware Minimization for Evolutionary Feature Construction in Regression",
+    "reason": "landscape:10, classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3479",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Implicit Sharpness-Aware Minimization for Domain Generalization",
+    "reason": "landscape:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5197",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Class-wise Activation Unravelling the Engima of Deep Double Descent",
+    "reason": "regimes:11, classical:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3442",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "Can Stability be Detrimental? Better Generalization through Gradient Descent Instabilities",
+    "reason": "probabilistic_information:8, landscape:5, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2768",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "A Precise Characterization of SGD Stability Using Loss Surface Geometry",
+    "reason": "probabilistic_information:8, landscape:5, regimes:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0620",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2024",
+    "title": "A General Theory for Compositional Generalization",
+    "reason": "probabilistic_information:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2724",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Uniform-in-Time Wasserstein Stability Bounds for (Noisy) Stochastic Gradient Descent",
+    "reason": "probabilistic_information:11, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1130",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "Sharp Lower Bounds on Interpolation by Deep ReLU Neural Networks at Irregularly Spaced Data",
+    "reason": "regimes:11, classical:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1618",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2023",
+    "title": "Information theoretic perspective on sample complexity",
+    "reason": "probabilistic_information:7, surveys_synthesis:6, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1721",
+    "score": 26,
+    "theme": "classical",
+    "year": "2023",
+    "title": "Generalization Analysis for Contrastive Representation Learning",
+    "reason": "classical:3, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3423",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Critical Influence of Overparameterization on Sharpness-aware Minimization",
+    "reason": "landscape:13, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5746",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "A Continual Learning Algorithm Based on Orthogonal Gradient Descent Beyond Neural Tangent Kernel Regime",
+    "reason": "regimes:18, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1425",
+    "score": 26,
+    "theme": "classical",
+    "year": "2022",
+    "title": "Inversion Method of a Highly Generalized Neural Network Based on Rademacher Complexity for Rough Media GATEM Data",
+    "reason": "classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0284",
+    "score": 26,
+    "theme": "classical",
+    "year": "2022",
+    "title": "Generalization Error Bounds on Deep Learning with Markov Datasets",
+    "reason": "queries:6, hits:6"
+  },
+  {
+    "record_id": "D-8296",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Diffusion Curvature for Estimating Local Curvature in High Dimensional Data",
+    "reason": "landscape:13, scaling_architectures:9, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1116",
+    "score": 26,
+    "theme": "classical",
+    "year": "2021",
+    "title": "VC dimension of partially quantized neural networks in the overparametrized regime",
+    "reason": "classical:10, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0397",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Nonasymptotic theory for two-layer neural networks: Beyond the bias-variance trade-off",
+    "reason": "regimes:3, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-0188",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Fit without fear: remarkable mathematical phenomena of deep learning through the prism of interpolation",
+    "reason": "regimes:11, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-3116",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2021",
+    "title": "Characterizing the loss landscape of variational quantum circuits",
+    "reason": "landscape:13, probabilistic_information:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-1282",
+    "score": 26,
+    "theme": "classical",
+    "year": "2021",
+    "title": "An Optimal Transport Analysis on Generalization in Deep Learning",
+    "reason": "classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6171",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "A generalization gap estimation for overparameterized models via the Langevin functional variance",
+    "reason": "regimes:9, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4510",
+    "score": 26,
+    "theme": "landscape",
+    "year": "2020",
+    "title": "Wide flat minima and optimal generalization in classifying high-dimensional Gaussian mixtures",
+    "reason": "landscape:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0111",
+    "score": 26,
+    "theme": "surveys_synthesis",
+    "year": "2020",
+    "title": "Predicting Generalization in Deep Learning via Local Measures of Distortion",
+    "reason": "surveys_synthesis:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6152",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "Overparameterization and generalization error: weighted trigonometric interpolation",
+    "reason": "regimes:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0106",
+    "score": 26,
+    "theme": "surveys_synthesis",
+    "year": "2020",
+    "title": "NeurIPS 2020 Competition: Predicting Generalization in Deep Learning",
+    "reason": "surveys_synthesis:5, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3058",
+    "score": 26,
+    "theme": "classical",
+    "year": "2020",
+    "title": "Generalization Error Bounds of Gradient Descent for Learning Over-Parameterized Deep ReLU Networks",
+    "reason": "classical:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5135",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "Double Trouble in Double Descent : Bias and Variance(s) in the Lazy Regime",
+    "reason": "regimes:11, surveys_synthesis:2, queries:2, hits:4"
+  },
+  {
+    "record_id": "D-5229",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "Dimensionality reduction, regularization, and generalization in overparameterized regressions",
+    "reason": "regimes:9, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2091",
+    "score": 26,
+    "theme": "classical",
+    "year": "2020",
+    "title": "Differentiable PAC-Bayes Objectives with Partially Aggregated Neural Networks",
+    "reason": "classical:10, probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1413",
+    "score": 26,
+    "theme": "classical",
+    "year": "2019",
+    "title": "VC-Dimension Based Generalization Bounds for Relational Learning",
+    "reason": "classical:7, probabilistic_information:6, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2483",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2019",
+    "title": "Stability and Generalization of Graph Convolutional Neural Networks",
+    "reason": "probabilistic_information:8, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2078",
+    "score": 26,
+    "theme": "probabilistic_information",
+    "year": "2019",
+    "title": "PAC-Bayes with Backprop",
+    "reason": "probabilistic_information:11, classical:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6169",
+    "score": 26,
+    "theme": "regimes",
+    "year": "2019",
+    "title": "Distillation $\\approx$ Early Stopping? Harvesting Dark Knowledge Utilizing Anisotropic Information Retrieval For Overparameterized Neural Network",
+    "reason": "regimes:12, classical:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0382",
+    "score": 26,
+    "theme": "surveys_synthesis",
+    "year": "2019",
+    "title": "A survey of methods for explaining black box models",
+    "reason": "surveys_synthesis:13, queries:6, hits:6"
+  },
+  {
+    "record_id": "D-1454",
+    "score": 26,
+    "theme": "classical",
+    "year": "2018",
+    "title": "Adaptive Dropout with Rademacher Complexity Regularization.",
+    "reason": "classical:10, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1906",
+    "score": 26,
+    "theme": "classical",
+    "year": "2017",
+    "title": "Emergence of Invariance and Disentanglement in Deep Representations",
+    "reason": "classical:3, probabilistic_information:3, landscape:2, surveys_synthesis:2, queries:4, hits:4"
+  },
+  {
+    "record_id": "D-1360",
+    "score": 26,
+    "theme": "classical",
+    "year": "2015",
+    "title": "Rademacher Complexity of the Restricted Boltzmann Machine",
+    "reason": "classical:10, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1071",
+    "score": 26,
+    "theme": "classical",
+    "year": "1995",
+    "title": "Statistical physics estimates for the complexity of feedforward neural networks",
+    "reason": "classical:5, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0503",
+    "score": 26,
+    "theme": "classical",
+    "year": "1994",
+    "title": "A theory of generalization in learning machines with neural network applications",
+    "reason": "classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3438",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems",
+    "reason": "landscape:10, probabilistic_information:5, scaling_architectures:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-7129",
+    "score": 25,
+    "theme": "surveys_synthesis",
+    "year": "2025",
+    "title": "Understanding Generalization in Transformers: Error Bounds and Training Dynamics Under Benign and Harmful Overfitting",
+    "reason": "surveys_synthesis:7, scaling_architectures:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1922",
+    "score": 25,
+    "theme": "classical",
+    "year": "2025",
+    "title": "PAC–Bayes Guarantees for Data-Adaptive Pairwise Learning",
+    "reason": "classical:10, probabilistic_information:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0235",
+    "score": 25,
+    "theme": "classical",
+    "year": "2025",
+    "title": "Introduction to Statistical Learning Theory",
+    "reason": "classical:7, queries:6, hits:6"
+  },
+  {
+    "record_id": "D-1530",
+    "score": 25,
+    "theme": "classical",
+    "year": "2025",
+    "title": "Generalization analysis of quantum neural networks using dynamical Lie algebras",
+    "reason": "classical:3, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4179",
+    "score": 25,
+    "theme": "classical",
+    "year": "2025",
+    "title": "Comparative Deep Learning Analysis of Regularization Techniques on Generalization in Baseline CNNs and ResNet Architectures for Machine Learning-Based Image Classification",
+    "reason": "queries:4, hits:4"
+  },
+  {
+    "record_id": "D-4128",
+    "score": 25,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Optimization and Generalization Guarantees for Weight Normalization",
+    "reason": "classical:3, landscape:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0871",
+    "score": 25,
+    "theme": "surveys_synthesis",
+    "year": "2024",
+    "title": "Lecture Notes on Linear Neural Networks: A Tale of Optimization and Generalization in Deep Learning",
+    "reason": "surveys_synthesis:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0881",
+    "score": 25,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Learned Random Label Predictions as a Neural Network Complexity Metric",
+    "reason": "classical:3, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1362",
+    "score": 25,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Is Efficient PAC Learning Possible with an Oracle That Responds 'Yes' or 'No'?",
+    "reason": "classical:12, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1279",
+    "score": 25,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "To understand double descent, we need to understand VC theory",
+    "reason": "regimes:8, classical:7, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0564",
+    "score": 25,
+    "theme": "surveys_synthesis",
+    "year": "2023",
+    "title": "The Analysis of Deep Neural Networks by Information Theory: From Explainability to Generalization",
+    "reason": "surveys_synthesis:4, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3317",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Robust Generalization Against Photon-Limited Corruptions via Worst-Case Sharpness Minimization",
+    "reason": "landscape:10, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-5920",
+    "score": 25,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks",
+    "reason": "regimes:10, surveys_synthesis:2, queries:1, hits:1, application_penalty:1"
+  },
+  {
+    "record_id": "D-1564",
+    "score": 25,
+    "theme": "classical",
+    "year": "2023",
+    "title": "Generalization error property of infoGAN for two-layer neural network",
+    "reason": "classical:3, probabilistic_information:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5560",
+    "score": 25,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "Feature Learning and Generalization in Deep Networks with Orthogonal Weights",
+    "reason": "regimes:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3466",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Enhancing Transformers without Self-supervised Learning: A Loss Landscape Perspective in Sequential Recommendation",
+    "reason": "landscape:10, surveys_synthesis:6, scaling_architectures:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3488",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Sharpness-Aware Minimization Improves Language Model Generalization",
+    "reason": "landscape:8, scaling_architectures:7, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1126",
+    "score": 25,
+    "theme": "classical",
+    "year": "2022",
+    "title": "Approximate Description Length, Covering Numbers, and VC Dimension",
+    "reason": "classical:10, probabilistic_information:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6196",
+    "score": 25,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Robustness to Pruning Predicts Generalization in Deep Neural Networks",
+    "reason": "regimes:5, probabilistic_information:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0566",
+    "score": 25,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "Research Review for Broad Learning System: Algorithms, Theory, and Applications",
+    "reason": "surveys_synthesis:10, probabilistic_information:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1699",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2021",
+    "title": "Implicit Regularization via Neural Feature Alignment",
+    "reason": "landscape:9, classical:3, queries:3, hits:4"
+  },
+  {
+    "record_id": "D-6158",
+    "score": 25,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances",
+    "reason": "regimes:9, landscape:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0525",
+    "score": 25,
+    "theme": "surveys_synthesis",
+    "year": "2021",
+    "title": "A review on extreme learning machine",
+    "reason": "surveys_synthesis:10, probabilistic_information:2, queries:3, hits:3, application_penalty:1"
+  },
+  {
+    "record_id": "D-1159",
+    "score": 25,
+    "theme": "classical",
+    "year": "2021",
+    "title": "A Theoretical-Empirical Approach to Estimating Sample Complexity of DNNs",
+    "reason": "classical:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6108",
+    "score": 25,
+    "theme": "regimes",
+    "year": "2020",
+    "title": "Weighted Optimization: better generalization by smoother interpolation.",
+    "reason": "regimes:10, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4439",
+    "score": 25,
+    "theme": "surveys_synthesis",
+    "year": "2020",
+    "title": "Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning",
+    "reason": "surveys_synthesis:7, landscape:5, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1488",
+    "score": 25,
+    "theme": "classical",
+    "year": "2019",
+    "title": "Theoretical Investigation of Generalization Bound for Residual Networks",
+    "reason": "classical:5, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0540",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2019",
+    "title": "Regularization theory in the study of generalization ability of a biological neural network model",
+    "reason": "landscape:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4250",
+    "score": 25,
+    "theme": "surveys_synthesis",
+    "year": "2019",
+    "title": "Nonconvex Optimization Meets Low-Rank Matrix Factorization: An Overview",
+    "reason": "surveys_synthesis:10, landscape:2, queries:5, hits:5"
+  },
+  {
+    "record_id": "D-3653",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2019",
+    "title": "Manifolds in high dimensional random landscape: complexity of stationary points and depinning",
+    "reason": "landscape:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4144",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2019",
+    "title": "Implicit Regularization in Over-parameterized Neural Networks",
+    "reason": "landscape:12, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-0098",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2019",
+    "title": "Implicit Regularization in Deep Matrix Factorization",
+    "reason": "landscape:9, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-2923",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2018",
+    "title": "The Regularization Effects of Anisotropic Noise in Stochastic Gradient Descent",
+    "reason": "landscape:5, scaling_architectures:2, queries:6, hits:6"
+  },
+  {
+    "record_id": "D-4550",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2018",
+    "title": "SmoothOut: Smoothing Out Sharp Minima for Generalization in Large-Batch Deep Learning",
+    "reason": "landscape:11, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2734",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2018",
+    "title": "Implicit Regularization of Stochastic Gradient Descent in Natural Language Processing: Observations and Implications",
+    "reason": "landscape:9, probabilistic_information:2, surveys_synthesis:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3719",
+    "score": 25,
+    "theme": "landscape",
+    "year": "2016",
+    "title": "The Landscape of Empirical Risk for Non-convex Losses",
+    "reason": "landscape:13, classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1509",
+    "score": 25,
+    "theme": "classical",
+    "year": "2014",
+    "title": "Dropout Rademacher Complexity of Deep Neural Networks",
+    "reason": "classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1504",
+    "score": 25,
+    "theme": "surveys_synthesis",
+    "year": "2005",
+    "title": "Theory of Classification: a Survey of Some Recent Advances",
+    "reason": "surveys_synthesis:15, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1215",
+    "score": 25,
+    "theme": "classical",
+    "year": "2000",
+    "title": "Measuring the VC-Dimension Using Optimized Experimental Design",
+    "reason": "classical:12, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1079",
+    "score": 25,
+    "theme": "classical",
+    "year": "1990",
+    "title": "Can neural networks do better than the Vapnik-Chervonenkis bounds?",
+    "reason": "classical:10, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1484",
+    "score": 25,
+    "theme": "classical",
+    "year": "",
+    "title": "",
+    "reason": "classical:5, surveys_synthesis:2, queries:18, hits:23"
+  },
+  {
+    "record_id": "D-0216",
+    "score": 24,
+    "theme": "classical",
+    "year": "None",
+    "title": "Deep learning-based concrete image analysis and generalization capability",
+    "reason": "queries:6, hits:6, application_penalty:1"
+  },
+  {
+    "record_id": "D-0230",
+    "score": 24,
+    "theme": "classical",
+    "year": "None",
+    "title": "Deep Learning for Chairlift Scene Analysis : Boosting Generalization in Multi-Domain Context",
+    "reason": "queries:6, hits:6"
+  },
+  {
+    "record_id": "D-3562",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2026",
+    "title": "Mapping the landscape of research findings: Generalization across contexts in strategic management research",
+    "reason": "landscape:10, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1758",
+    "score": 24,
+    "theme": "classical",
+    "year": "2026",
+    "title": "Concave Certificates: Geometric Framework for Distributionally Robust Risk and Complexity Analysis",
+    "reason": "classical:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3425",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Zero-Order Sharpness-Aware Minimization",
+    "reason": "landscape:13, classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3003",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Variational Deep Learning via Implicit Regularization",
+    "reason": "landscape:9, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-2099",
+    "score": 24,
+    "theme": "classical",
+    "year": "2025",
+    "title": "PAC-Bayesian risk bounds for fully connected deep neural network with Gaussian priors",
+    "reason": "classical:10, probabilistic_information:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6402",
+    "score": 24,
+    "theme": "scaling_architectures",
+    "year": "2025",
+    "title": "Neural Scaling Laws for Deep Regression",
+    "reason": "scaling_architectures:11, classical:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3454",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Learning from Loss Landscape: Generalizable Mixed-Precision Quantization via Adaptive Sharpness-Aware Gradient Aligning",
+    "reason": "landscape:16, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-7847",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "Hillslope diffusion and channel steepness in landscape evolution models",
+    "reason": "landscape:10, scaling_architectures:9, classical:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5566",
+    "score": 24,
+    "theme": "regimes",
+    "year": "2025",
+    "title": "Diagonal Over-parameterization in Reproducing Kernel Hilbert Spaces as an Adaptive Feature Model: Generalization and Adaptivity",
+    "reason": "regimes:3, landscape:2, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-1904",
+    "score": 24,
+    "theme": "classical",
+    "year": "2025",
+    "title": "Deep Learning is Not So Mysterious or Different",
+    "reason": "classical:3, probabilistic_information:3, regimes:3, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-3287",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2025",
+    "title": "A tighter generalization error bound for wide GCN based on loss landscape",
+    "reason": "landscape:8, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6674",
+    "score": 24,
+    "theme": "scaling_architectures",
+    "year": "2024",
+    "title": "Towards Precise Scaling Laws for Video Diffusion Transformers",
+    "reason": "scaling_architectures:20, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3650",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Superposition of plane waves in high spatial dimensions: from landscape complexity to the deepest minimum value",
+    "reason": "landscape:13, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3415",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users",
+    "reason": "landscape:13, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6159",
+    "score": 24,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Regularized Gauss-Newton for Optimizing Overparameterized Neural Networks",
+    "reason": "regimes:12, landscape:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4119",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Neglected Hessian component explains mysteries in Sharpness regularization",
+    "reason": "landscape:11, regimes:6, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3439",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "Improving Generalization of Deep Neural Networks by Optimum Shifting",
+    "reason": "landscape:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1547",
+    "score": 24,
+    "theme": "classical",
+    "year": "2024",
+    "title": "Graph Neural Network Generalization with Gaussian Mixture Model Based Augmentation",
+    "reason": "classical:3, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5927",
+    "score": 24,
+    "theme": "regimes",
+    "year": "2024",
+    "title": "Get rich quick: exact solutions reveal how unbalanced initializations promote rapid feature learning",
+    "reason": "regimes:10, classical:2, landscape:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3268",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2024",
+    "title": "A Tighter Generalization Bound for Wide Gcn Based on Loss Landscape",
+    "reason": "landscape:8, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6135",
+    "score": 24,
+    "theme": "regimes",
+    "year": "2023",
+    "title": "Training and Generalization Errors for Underparameterized Neural Networks",
+    "reason": "regimes:5, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-8442",
+    "score": 24,
+    "theme": "surveys_synthesis",
+    "year": "2023",
+    "title": "The Local Learning Coefficient: A Singularity-Aware Complexity Measure",
+    "reason": "surveys_synthesis:7, landscape:2, scaling_architectures:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3421",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2023",
+    "title": "Sharpness-Aware Teleportation on Riemannian Manifolds",
+    "reason": "landscape:13, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-0091",
+    "score": 24,
+    "theme": "surveys_synthesis",
+    "year": "2023",
+    "title": "Research Challenges, Recent Advances, and Popular Datasets in Deep Learning-Based Underwater Marine Object Detection: A Review",
+    "reason": "surveys_synthesis:13, queries:1, hits:1, application_penalty:1"
+  },
+  {
+    "record_id": "D-1760",
+    "score": 24,
+    "theme": "classical",
+    "year": "2023",
+    "title": "MADG: Margin-based Adversarial Learning for Domain Generalization",
+    "reason": "classical:3, probabilistic_information:2, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-1850",
+    "score": 24,
+    "theme": "classical",
+    "year": "2023",
+    "title": "Learning Capacity: A Measure of the Effective Dimensionality of a Model",
+    "reason": "classical:5, probabilistic_information:5, regimes:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2261",
+    "score": 24,
+    "theme": "surveys_synthesis",
+    "year": "2022",
+    "title": "Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next",
+    "reason": "surveys_synthesis:4, queries:11, hits:11"
+  },
+  {
+    "record_id": "D-4369",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Penalizing Gradient Norm for Efficiently Improving Generalization in Deep Learning",
+    "reason": "landscape:3, regimes:2, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-0984",
+    "score": 24,
+    "theme": "classical",
+    "year": "2022",
+    "title": "KAM Theory Meets Statistical Learning Theory: Hamiltonian Neural Networks with Non-zero Training Loss",
+    "reason": "classical:7, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2972",
+    "score": 24,
+    "theme": "scaling_architectures",
+    "year": "2022",
+    "title": "Deep learning, stochastic gradient descent and diffusion maps",
+    "reason": "scaling_architectures:9, landscape:5, queries:3, hits:3"
+  },
+  {
+    "record_id": "D-5751",
+    "score": 24,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "Deep Learning in Random Neural Fields: Numerical Experiments via Neural Tangent Kernel",
+    "reason": "regimes:11, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4720",
+    "score": 24,
+    "theme": "scaling_architectures",
+    "year": "2022",
+    "title": "Convexifying Transformers: Improving optimization and understanding of transformer networks",
+    "reason": "scaling_architectures:9, surveys_synthesis:7, landscape:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-3134",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2022",
+    "title": "Beyond accuracy: generalization properties of bio-plausible temporal credit assignment rules",
+    "reason": "landscape:5, surveys_synthesis:2, queries:2, hits:2"
+  },
+  {
+    "record_id": "D-6170",
+    "score": 24,
+    "theme": "regimes",
+    "year": "2022",
+    "title": "Analysis of Catastrophic Forgetting for Random Orthogonal Transformation Tasks in the Overparameterized Regime",
+    "reason": "regimes:9, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-4424",
+    "score": 24,
+    "theme": "landscape",
+    "year": "2021",
+    "title": "Unveiling the structure of wide flat minima in neural networks",
+    "reason": "landscape:11, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-5679",
+    "score": 24,
+    "theme": "regimes",
+    "year": "2021",
+    "title": "Unsupervised Shape Completion via Deep Prior in the Neural Tangent Kernel Perspective",
+    "reason": "regimes:11, surveys_synthesis:6, probabilistic_information:3, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-6400",
+    "score": 24,
+    "theme": "scaling_architectures",
+    "year": "2021",
+    "title": "Scaling Laws for Deep Learning",
+    "reason": "scaling_architectures:11, surveys_synthesis:2, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2103",
+    "score": 24,
+    "theme": "classical",
+    "year": "2021",
+    "title": "On Margins and Derandomisation in PAC-Bayes",
+    "reason": "classical:10, probabilistic_information:8, queries:1, hits:1"
+  },
+  {
+    "record_id": "D-2117",
+    "score": 24,
+    "theme": "classical",
+    "year": "2021",
+    "title": "Improved Regularization and Robustness for Fine-tuning in Neural Networks",
+    "reason": "classical:5, probabilistic_information:5, regimes:3, queries:1, hits:1"
+  }
+]
