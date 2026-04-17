@@ -68,6 +68,12 @@
 | `extended` | `kawaguchi2017generalization` | `D-0102` | Generalization in Deep Learning |
 | `extended` | `mei2021eos` | `D-4707` | Understanding Gradient Descent on Edge of Stability in Deep Learning |
 | `extended` | `petrov2025curvaturegap` | `D-4115` | Closing the Curvature Gap: Full Transformer Hessians and Their Implications for Scaling Laws |
+| `extended` | `transformerScalingLowDim2024` | `D-6673` | Understanding Scaling Laws with Statistical and Approximation Theory for Transformer Neural Networks on Intrinsically Low-dimensional Data |
+| `extended` | `transformerScalingStatApprox2022` | `D-6762` | Scaling Laws for Transformers on Low-Dimensional Data: A Statistical and Approximation Theory Perspective |
+| `extended` | `moeScalingLaws2026` | `D-6670` | Generalization and Scaling Laws for Mixture-of-Experts Transformers |
+| `extended` | `featureDynamicsScaling2025` | `D-5926` | Understanding Scaling Laws in Deep Neural Networks via Feature Learning Dynamics |
+| `extended` | `diffusionTransformerScaling2024` | `D-6671` | Scaling Laws For Diffusion Transformers |
+| `extended` | `beyondChinchillaInference2023` | `D-6904` | Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws |
 | `extended` | `poggio2020theoretical` | `D-3035` | Theoretical Issues in Deep Networks: Approximation, Optimization and Generalization |
 | `extended` | `poggio2017nonoverfitting` | `D-4147` | Theory of Deep Learning III: explaining the non-overfitting puzzle |
 | `extended` | `golowich2016lessons` | `D-1492` | Lessons from the Rademacher complexity for deep learning |
