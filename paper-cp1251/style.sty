@@ -1,0 +1,192 @@
+\usepackage{subfigure}
+\renewcommand{\thesubfigure}{\asbuk{subfigure})}
+\usepackage[subfigure]{tocloft}
+\usepackage{newfile}
+
+\renewcommand*{\thesection}{\arabic{section}}
+\renewcommand*{\thefigure}{\arabic{figure}}
+
+\newenvironment{abstract}{\quotation \small}{\endquotation}
+
+\pagestyle{myheadings}
+
+\renewcommand{\@evenhead}{%
+    \raisebox{0pt}[\headheight][0pt]{%
+    \vbox{\hbox to \textwidth{%
+        \thepage\hfil{\slshape\leftmark}\hfil\issuemark\strut}
+        \hrule}}}
+
+\renewcommand{\@oddhead}{%
+    \raisebox{0pt}[\headheight][0pt]{%
+    \vbox{\hbox to\textwidth{%
+        \issuemark\hfil{\slshape\rightmark}\hfil\thepage\strut}
+        \hrule}}}
+
+\setlength{\headsep}{1.0\baselineskip}
+
+\renewcommand{\part}{%
+\secdef\@part\@spart}
+
+\def\@part[#1]#2{%
+\addcontentsline{toc}{part}{\protect #1}
+\refstepcounter{part}
+\markboth{#1}{}}
+
+\def\@spart#1{\relax}
+
+\setcounter{tocdepth}{0}
+
+\renewcommand{\chapter}{%
+\global\@topnum\z@
+\secdef\@chapter\@schaper
+}
+
+\renewcommand{\@chapter}[2][]{%
+  \clearpage
+  \addcontentsline{toc}{chapter}{\protect\numberline{}#2}
+  \refstepcounter{chapter}
+  \markright{#1}
+}
+
+\renewcommand{\cftchapfont}{\normalfont\raggedright}
+\renewcommand{\cftchappagefont}{\normalfont}
+\renewcommand{\cftchapleader}{\cftdotfill{2}}
+\cftsetrmarg{5em}
+\setlength{\cftchapnumwidth}{0pt}
+
+\renewcommand*{\@biblabel}[1]{\hfill\bfseries#1.}
+
+\addto\captionsenglish{\renewcommand{\bibname}{References}}
+
+\renewenvironment{thebibliography}[1]
+     {\section*{\bibname}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \itemsep\z@
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty10000
+      \@clubpenalty \clubpenalty
+      \widowpenalty10000%
+      \sfcode`\.\@m}%
+     {\endlist}
+
+\renewcommand\section{\@startsection{section}{1}{\z@}%
+                                   {-3.0ex \@plus -0.5ex \@minus -.2ex}%
+                                   {1.8ex \@plus.2ex}%
+                  {\raggedright\large\bfseries}}
+
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+                                    {2.0ex \@plus .2ex \@minus.1ex}%
+                                    {-1ex}%
+                                    {\normalfont\normalsize\bfseries}}
+
+\renewcommand{\theequation}{\arabic{equation}}
+
+\newcommand{\kw}[1]{\medskip\par\textbf{#1:}~}
+\newcommand{\kwr}{\kw{Ключевые слова}}
+\newcommand{\kwe}{\kw{Key words}}
+
+\newcounter{authors}
+\newcommand{\@authlist}{}
+\newcommand{\@authors}{}
+\newcommand{\@affillist}{}
+
+\newcommand{\clearauthors}{
+\global\let\@title\@empty
+\global\let\@authlist\@empty
+\global\let\@authors\@empty
+\global\let\@affillist\@empty
+\global\let\UDK\@empty
+\setcounter{authors}{0}}
+
+\renewcommand\author[3][\@empty]{%
+\ifx\@empty #1
+  \def\@note{}
+\else
+  \def\@note{$^{#1}$}
+\fi
+\addtocounter{authors}{1}%
+\ifnum\value{authors}>1
+  \def\@sep{, }
+\else
+  \def\@sep{}
+  \gdef\@firstauthor{#2}
+\fi
+\begingroup
+  \let\protect\@unexpandable@protect
+  \edef\@itema{\@sep#2~#3\@note}
+  \@temptokena=\expandafter{\@authlist}%
+  \xdef\@authlist{\the\@temptokena\@itema}
+  \edef\@itemb{\@sep#3~#2}
+  \@temptokena=\expandafter{\@authors}%
+  \xdef\@authors{\the\@temptokena\@itemb}
+\endgroup}
+
+\newcommand\affil[2][\@empty]{%
+\ifx\@empty #1
+  \def\@note{}
+\else
+  \def\@note{$^{#1}$}
+\fi
+\xdef\@affillist{\@affillist\par\@note #2}}
+
+\renewcommand{\@author}{\@authlist}
+\newcommand{\@affil}{\@affillist}
+
+\renewcommand{\maketitle}{%
+\parbox{0.9\textwidth}{\centering
+{\itshape\@authlist\par}
+\medskip
+{\footnotesize\@affillist\par}
+\par\medskip
+{\Large\bfseries\@title\par}}
+\medskip
+\clearauthors}
+
+\newcommand{\arthead}[3]{\par\medskip
+\parbox{0.9\textwidth}{\centering
+{\itshape #1 \par}
+\medskip
+{\footnotesize #2 \par}
+\medskip
+{\Large\bfseries #3 \par}}
+\medskip}
+
+\newcommand{\inputarticle}[3][\@empty]{%
+\chapter[#3]{\protect{\itshape\@authors}~~\@title}
+
+\graphicspath{{./#2/}}
+
+\ifx\@empty #1
+  \medskip
+\else
+  {\raggedright УДК~#1\par}
+  \bigskip%
+\fi
+
+\maketitle
+
+\label{#2}
+\input{#2/#2}
+\label{#2_1}
+}
+
+\uchyph=0
+\hfuzz=1pt
+
+\makeatletter
+\newcommand\englishtableofcontents{%
+	\selectlanguage{english}%
+	\begin{center}
+		\Large \bfseries Contents
+	\end{center}
+	\@starttoc{etoc}%
+	\selectlanguage{russian}%
+}
+\makeatother
